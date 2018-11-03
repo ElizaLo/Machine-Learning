@@ -1,17 +1,20 @@
 # Machine Learning with Jupiter
 
  2. ## **Linear Regression**
-    - [Practice](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/P2/ML_Practice_2.ipynb)
+    - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
     
- 3.
+ 3. ## **Logistic Regression**
+    - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P3)
  
- 4.
- 
+ 4. ## **Fully Connected Neural Networks**
+    - Fully connected neural network that recognizes handwriting numbers from  MNIST database (Modified National Institute of     Standards and Technology database)
+    - [MNIST Database](https://pjreddie.com/projects/mnist-in-csv/)
+    - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)
  5.
  
  6.
     
- 7. ## **Convolutional neural network (CNN)**
-    - [Practice](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/P7/ML_Practice_7.ipynb)
+ 7. ## **Convolutional Neural Network (CNN)**
+    - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
     - 
  
