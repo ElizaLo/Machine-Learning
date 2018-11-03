@@ -7,7 +7,7 @@
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P3)
  
  4. ## **Fully Connected Neural Networks**
-Fully connected neural network that recognizes handwriting numbers from  MNIST database (Modified National Institute of     Standards and Technology database)
+    - Fully connected neural network that recognizes handwriting numbers from  MNIST database (Modified National Institute of     Standards and Technology database)
     - [MNIST Database](https://pjreddie.com/projects/mnist-in-csv/)
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)
  5.
