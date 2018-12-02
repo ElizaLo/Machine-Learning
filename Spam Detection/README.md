@@ -1,6 +1,6 @@
 # Spam Detection
-## Methods
+ **Methods**
  1. 
  2.
- 3. Decision tree learning
+ 3. ## **Decision tree learning**
    - [Description](https://basegroup.ru/community/articles/description)
