@@ -1,5 +1,6 @@
 # Spam Detection
- **Methods**
+ ## **Methods**
+ 
  1. 
  2.
  3. ## **Decision tree learning**
