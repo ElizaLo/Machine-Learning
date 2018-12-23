@@ -21,3 +21,9 @@
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
     - 
  
+# Projects: 
+ - # **Spam Detection**
+   Methods:
+    - **_Naive Bayes spam filtering_**
+    - **_K-Nearest Neighbors algorithm_**
+    - **_Decision Tree learning_**
