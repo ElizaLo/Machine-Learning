@@ -27,3 +27,6 @@
     - **_Naive Bayes spam filtering_**
     - **_K-Nearest Neighbors algorithm_**
     - **_Decision Tree learning_**
+    - **_Support Vector Machine (SVM)_**
+    - **_Random Forest_**
+  - [Project](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/Spam%20Detection/Spam_Detection.ipynb)
