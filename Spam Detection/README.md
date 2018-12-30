@@ -6,8 +6,8 @@
  ## **Methods**
  
  1. ## **Naive Bayes spam filtering**
-   - [Description #1](https://ru.wikipedia.org/wiki/Байесовская_фильтрация_спама)
-   - [Description #2](https://ru.wikipedia.org/wiki/Наивный_байесовский_классификатор)
+   - [Naive Bayes spam filtering](https://ru.wikipedia.org/wiki/Байесовская_фильтрация_спама)
+   - [Naive Bayes classifier](https://ru.wikipedia.org/wiki/Наивный_байесовский_классификатор)
    - [Text Classification and Naïve Bayes](http://spark-public.s3.amazonaws.com/nlp/slides/naivebayes.pdf)
    - [Naive Bayes - Stanford NLP - **Professor Dan Jurafsky**](https://www.youtube.com/watch?v=vfnxRGmP_ss&list=PL4D7F2C9AA45EAEBC&index=20)
    
@@ -25,4 +25,16 @@
    - [Description](https://ru.wikipedia.org/wiki/Random_forest)
    
    
-## 
+## **Libraries**
+
+- **WordCloud**
+  - https://www.datacamp.com/community/tutorials/wordcloud-python
+  
+- **Seaborn**
+  - https://seaborn.pydata.org
+
+
+## **Else**
+
+- [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+- [Supervised learning](https://ru.wikipedia.org/wiki/Обучение_с_учителем)
