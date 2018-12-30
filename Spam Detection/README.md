@@ -13,6 +13,7 @@
    
  2. ## **K-Nearest Neighbors algorithm**
    - [Description](https://ru.wikipedia.org/wiki/Метод_k-ближайших_соседей)
+   - [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
    
  3. ## **Decision tree learning**
    - [Description #1](https://basegroup.ru/community/articles/description)
