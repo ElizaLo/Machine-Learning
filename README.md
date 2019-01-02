@@ -1,8 +1,8 @@
 # Machine Learning with Jupiter Notebook
 
-## **Models and Algorithms:**
+**Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
-## **Projects:**
+**Projects:**
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
  
  
