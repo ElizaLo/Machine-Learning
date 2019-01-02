@@ -2,10 +2,16 @@
 
 **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
-  2.
+  2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+  3. [**_Logistic Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
+  4. [**_Fully Connected Neural Networks_**](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
+  5. [**_Computer Vision - Blurred Images_**](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
+  6. [**_OpenCV_**](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
+  7. [**_Convolutional Neural Network (CNN)_**](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
   
 **Projects:**
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
+  - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
  
  
 # **Models and Algorithms:**
@@ -30,10 +36,15 @@
     - Using **_scipy_** and **_imageio_**
  
  6. ## **OpenCV**
+    - Face Detector on WebCam
+    - Camera Recording into file
+    - Detecting blue squares from WebCam
+    - [OpenCV Documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+    - [Project](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/P6/ML_Practice_6.ipynb)
     
  7. ## **Convolutional Neural Network (CNN)**
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
-    - 
+ 
  
 # Projects: 
 
