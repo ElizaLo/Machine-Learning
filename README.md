@@ -1,4 +1,8 @@
-# Machine Learning with Jupiter
+# Machine Learning with Jupiter Notebook
+ 
+ 1. ## **k Nearest Neighbor**
+    - [Project](https://github.com/ElizaLo/ML/blob/master/k%20Nearest%20Neighbor/kNN.py)
+    - [Subset of MNIST](https://pjreddie.com/projects/mnist-in-csv/)
 
  2. ## **Linear Regression**
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
