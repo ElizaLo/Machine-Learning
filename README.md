@@ -1,5 +1,13 @@
 # Machine Learning with Jupiter Notebook
+
+## **Models and Algorithms:**
+  1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
+## **Projects:**
+  - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
  
+ 
+# **Models and Algorithms:**
+
  1. ## **k Nearest Neighbor**
     - [Project](https://github.com/ElizaLo/ML/blob/master/k%20Nearest%20Neighbor/kNN.py)
     - [Subset of MNIST](https://pjreddie.com/projects/mnist-in-csv/)
@@ -15,7 +23,7 @@
     - [MNIST Database](https://pjreddie.com/projects/mnist-in-csv/)
     - [Project](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)
     
- 5. ## **Blurred Images**
+ 5. ## **Computer Vision - Blurred Images**
     - Algorithms for restoring blurred images
     - Using **_scipy_** and **_imageio_**
  
