@@ -1,4 +1,4 @@
-# Machine Learning with Jupiter Notebook and Google Colab
+# Machine Learning using Jupiter Notebook and Google Colab
 
 **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
