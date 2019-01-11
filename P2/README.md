@@ -18,7 +18,7 @@ _m_ - number of training examples
 
 This function is otherwise called the **"Squared error function"**, or **"Mean squared error"**. The mean is halved 1/2 as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the 1/2 term. 
 
-## Gradient Descent
+## "Batch" Gradient Descent
 
 Gradient descent is an iterative optimization algorithm for finding the minimum of a cost function described above. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point.
 
@@ -50,5 +50,5 @@ At each iteration _j_, one should simultaneously update the parameters theta. Up
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%203.png)
 
-
+> "Batch": Each step of gradient descent uses **all** the traning examples.
 
