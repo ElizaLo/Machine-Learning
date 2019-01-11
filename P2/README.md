@@ -22,6 +22,8 @@ This function is otherwise called the **"Squared error function"**, or **"Mean s
 
 Gradient descent is an iterative optimization algorithm for finding the minimum of a cost function described above. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point.
 
+> **"Batch"**: Each step of gradient descent uses **all** the traning examples.
+
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%201.png)
 
 We will know that we have succeeded when our cost function is at the very bottom of the pits in our graph, i.e. when its value is the minimum. The red arrows show the minimum points in the graph.
@@ -50,5 +52,16 @@ At each iteration _j_, one should simultaneously update the parameters theta. Up
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%203.png)
 
-> "Batch": Each step of gradient descent uses **all** the traning examples.
+## Gradient Descent For Linear Regression
 
+When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to :
+
+![Gradient Descent for Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%20for%20Linear%20Regression.png)
+
+where _**m**_ is the size of the training set, _**theta<sub>0</sub>**_ a constant that will be changing simultaneously with _**theta<sub>1</sub>**_ and  _**x<sub>i</sub>**_, _**y<sub>i</sub>**_ are values of the given training set (data).
+
+- Note that we have separated out the two cases for  _**theta<sub>j</sub>**_ into separate equations for _**theta<sub>0</sub>**_ and _**theta<sub>1</sub>**_.
+
+![Formula 1](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Formula%201.png)
+
+The point of all this is that if we start with a guess for our hypothesis and then repeatedly apply these gradient descent equations, our hypothesis will become more and more accurate.
