@@ -39,3 +39,16 @@ repeat until convergence:
 where _j=0,1_ represents the feature index number.
 
 At each iteration _j_, one should simultaneously update the parameters theta. Updating a specific parameter prior to calculating another one on the _j<sup>(th)</sup>_ iteration would yield to a wrong implementation.
+
+- The gradient descent can converge to a local minimum, even with the learning rate  _**α fixed**_.
+- As we approach a local minimum, gradient descent will automatically take smaller steps. So no need to decrease α over time.
+
+![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%202.png)
+
+- If _**α is too large**_, gradient descent can overshoot the minimum. It may fail to converge, or even diverge.
+- If _**α is too small**_, gradient descent can be slow.
+
+![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%203.png)
+
+
+
