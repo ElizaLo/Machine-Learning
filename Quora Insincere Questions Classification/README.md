@@ -37,7 +37,7 @@ Note that the distribution of questions in the dataset should not be taken to be
 
 - **qid** - unique question identifier
 - **question_text** - Quora question text
-- **target** - a question labeled "insincere" has a value of 1, otherwise 0
+- **target** - a question labeled "insincere" has a value of `1`, otherwise `0`
 
 This is a Kernels-only competition. The files in this Data section are downloadable for reference in Stage 1. Stage 2 files will only be available in Kernels and not available for download.
 
@@ -45,9 +45,9 @@ This is a Kernels-only competition. The files in this Data section are downloada
 
 In the second stage of the competition, we will re-run your selected Kernels. The following files will be swapped with new data:
 
-- **test.csv** - This will be swapped with the complete public and private test dataset. This file will have ~56k rows in stage 1 and ~376k rows in stage 2. The public leaderboard data remains the same for both versions. The file name will be the same (both test.csv) to ensure that your code will run.
+- `test.csv` - This will be swapped with the complete public and private test dataset. This file will have ~56k rows in stage 1 and ~376k rows in stage 2. The public leaderboard data remains the same for both versions. The file name will be the same (both `test.csv`) to ensure that your code will run.
 
-- **sample_submission.csv** - similar to test.csv, this will be changed from ~56k in stage 1 to ~376k rows in stage 2 . The file name will remain the same.
+- `sample_submission.csv` - similar to `test.csv`, this will be changed from ~56k in stage 1 to ~376k rows in stage 2 . The file name will remain the same.
 
 ## Embeddings
 
