@@ -12,6 +12,7 @@
 **Projects:**
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
   - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
+  - **_Quora Insincere Questions Classification_**
  
 ## What's is the difference between _train, validation and test set_, in neural networks?
 
