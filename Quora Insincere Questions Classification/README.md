@@ -26,7 +26,7 @@ Note that the distribution of questions in the dataset should not be taken to be
 
 ## File descriptions
 
-**Kaggle API:** kaggle competitions download -c quora-insincere-questions-classification
+**Kaggle API:** `kaggle competitions download -c quora-insincere-questions-classification`
 
 - **train.csv** - the training set
 - **test.csv** - the test set
