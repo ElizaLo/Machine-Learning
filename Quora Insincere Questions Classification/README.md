@@ -20,7 +20,7 @@ An insincere question is defined as a question intended to make a statement rath
   - Based on false information, or contains absurd assumptions
 - Uses sexual content (incest, bestiality, pedophilia) for shock value, and not to seek genuine answers
 
-The training data includes the question that was asked, and whether it was identified as insincere (target = 1). The ground-truth labels contain some amount of noise: they are not guaranteed to be perfect.
+The training data includes the question that was asked, and whether it was identified as insincere (`target = 1`). The ground-truth labels contain some amount of noise: they are not guaranteed to be perfect.
 
 Note that the distribution of questions in the dataset should not be taken to be representative of the distribution of questions asked on Quora. This is, in part, because of the combination of sampling procedures and sanitization measures that have been applied to the final dataset.
 
