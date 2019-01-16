@@ -57,3 +57,7 @@ External data sources are not allowed for this competition. We are, though, prov
 - **glove.840B.300d** - https://nlp.stanford.edu/projects/glove/
 - **paragram_300_sl999** - https://cogcomp.org/page/resource_view/106
 - **wiki-news-300d-1M** - https://fasttext.cc/docs/en/english-vectors.html
+
+ ## Used:
+ 
+ - The **bag-of-words** model is a simplifying representation used in natural language processing and information retrieval (IR). In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity.
