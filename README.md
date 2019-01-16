@@ -33,7 +33,7 @@
 # **Models and Algorithms:**
 
  1. ## **k Nearest Neighbor**
-    - [Code](https://github.com/ElizaLo/ML/blob/master/k%20Nearest%20Neighbor/kNN.py)
+    - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/k%20Nearest%20Neighbor/kNN.py)
     - [Subset of MNIST](https://pjreddie.com/projects/mnist-in-csv/)
 
  2. ## **Linear Regression**
