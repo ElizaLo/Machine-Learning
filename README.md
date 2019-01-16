@@ -82,6 +82,6 @@
    Neural Network for generating text based on training txt file using **_Google Colab_**. 
    As a base text were used **_Alice in Wonderland_** by Lewis Carroll.
    
-  - [Code](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/Text%20Generator%20/%20Text_Generator.ipynb)
+  - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/Text%20Generator/Text_Generator.ipynb)
   - [Base text - **Alice in Wonderland**](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/Text%20Generator/alice_in_wonderland.txt)
   - [Formatted text of **Alice in Wonderland**](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/Text%20Generator/alice_formatted.txt)
