@@ -47,10 +47,14 @@ At each iteration _j_, one should simultaneously update the parameters theta. Up
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%202.png)
 
+![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%204.gif)
+
 - If _**α is too large**_, gradient descent can overshoot the minimum. It may fail to converge, or even diverge.
 - If _**α is too small**_, gradient descent can be slow.
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%203.png)
+
+![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%205.gif)
 
 ## Gradient Descent For Linear Regression
 
