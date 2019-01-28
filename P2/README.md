@@ -79,3 +79,13 @@ The gradient descent equation itself is generally the same form; we just have to
 In other words:
 
 ![Gradient Descent for Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%20for%20Multiple%20Variables%202.png)
+
+## Gradient Descent - Feature Scaling
+
+Two techniques to help with this are **feature scaling** and **mean normalization**. Feature scaling involves dividing the input values by the range (i.e. the maximum value minus the minimum value) of the input variable, resulting in a new range of just 1. Mean normalization involves subtracting the average value for an input variable from the values for that input variable resulting in a new average value for the input variable of just zero. To implement both of these techniques, adjust your input values as shown in this formula:
+
+Where _µ<sub>i</sub>_  is the **average** of all the values for feature (i) and is the range of values _(max - min)_, or _s<sub>i</sub>_  is the standard deviation.
+
+![Formula 2](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Formula%202.png)
+
+Note that dividing by the range, or dividing by the standard deviation, give different results. The quizzes in this course use range - the programming exercises use standard deviation.
