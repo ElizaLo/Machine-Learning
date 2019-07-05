@@ -41,7 +41,11 @@
     - [Subset of MNIST](https://pjreddie.com/projects/mnist-in-csv/)
 
  2. ## **Linear Regression**
-    - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
+    - 📘 [Math](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#linear-regression)
+      - ["Batch" Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#batch-gradient-descent)
+      - [Gradient Descent For Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-linear-regression)
+      - [Gradient Descent For Multiple Variables](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-multiple-variables)
+    - 💻 [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
     
  3. ## **Logistic Regression**
     - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P3)
