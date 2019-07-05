@@ -13,6 +13,9 @@
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
   - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
   - **_Quora Insincere Questions Classification_**
+  - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
+  
+ [**NLP Projects Repository**](https://github.com/ElizaLo/NLP)
  
 ## What's is the difference between _train, validation and test set_, in neural networks?
 
