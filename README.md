@@ -1,6 +1,6 @@
 # Machine Learning using Jupiter Notebook and Google Colab
 
-**Models and Algorithms:**
+⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
   3. [**_Logistic Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
@@ -9,13 +9,13 @@
   6. [**_OpenCV_**](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
   7. [**_Convolutional Neural Network (CNN)_**](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
   
-**Projects:**
+👩‍💻 **Projects:**
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
   - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
   - **_Quora Insincere Questions Classification_**
   - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
   
-**Natural Language Processing:**  
+🗣 **Natural Language Processing:**  
 - [ ] [**NLP Projects Repository**](https://github.com/ElizaLo/NLP)
  
 ## What's is the difference between _train, validation and test set_, in neural networks?
@@ -34,7 +34,7 @@
 
 **[Early stopping](https://en.wikipedia.org/wiki/Early_stopping)** is a way to stop training. There are different variations available, the main outline is, both the train and the validation set errors are monitored, the train error decreases at each iteration ([backpropagation](https://en.wikipedia.org/wiki/Backpropagation) and brothers) and at first the validation error decreases. The training is stopped at the moment the validation error starts to rise. The weight configuration at this point indicates a model, which predicts the training data well, as well as the data which is not seen by the network . But because the validation data actually affects the weight configuration indirectly to select the weight configuration. This is where the Test set comes in. This set of data is never used in the training process. Once a model is selected based on the validation set, the test set data is applied on the network model and the error for this set is found. This error is a representative of the error which we can expect from absolutely new data for the same problem.
  
-# **Models and Algorithms:**
+# ⚙️ **Models and Algorithms:**
 
  1. ## **k Nearest Neighbor**
     - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/k%20Nearest%20Neighbor/kNN.py)
@@ -67,7 +67,7 @@
     - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
  
  
-# Projects: 
+# 👩‍💻 Projects: 
 
  - # **Spam Detection**
  
