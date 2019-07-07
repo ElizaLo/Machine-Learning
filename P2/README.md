@@ -141,4 +141,4 @@ _**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽
 
 - [ ] **!** One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
 
-_For example_, if _**x<sub>1</sub>**_ has range 1-1'000 then range of x<sub>1</sub><sup>2</sup> becomes 1-1'000'000 and that of x<sub>1</sub><sup>3</sup> becomes 1-1'000'000'000.
+_For example_, if _**x<sub>1</sub>**_ has range 1-1'000 then range of _**x<sub>1</sub><sup>2</sup>**_ becomes 1-1'000'000 and that of _**x<sub>1</sub><sup>3</sup>**_ becomes 1-1'000'000'000.
