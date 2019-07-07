@@ -3,6 +3,7 @@
 ⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+      - [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
   3. [**_Logistic Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
   4. [**_Fully Connected Neural Networks_**](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
   5. [**_Computer Vision - Blurred Images_**](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
@@ -45,6 +46,7 @@
       - ["Batch" Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#batch-gradient-descent)
       - [Gradient Descent For Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-linear-regression)
       - [Gradient Descent For Multiple Variables](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-multiple-variables)
+    - 📘 [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
     - 💻 [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
     
  3. ## **Logistic Regression**
