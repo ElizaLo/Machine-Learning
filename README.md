@@ -46,7 +46,7 @@
       - ["Batch" Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#batch-gradient-descent)
       - [Gradient Descent For Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-linear-regression)
       - [Gradient Descent For Multiple Variables](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-multiple-variables)
-    - 📘 [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+    - 📘 [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
     - 💻 [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
     
  3. ## **Logistic Regression**
