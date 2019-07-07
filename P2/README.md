@@ -27,6 +27,9 @@ Gradient descent is an iterative optimization algorithm for finding the minimum 
 > **"Batch"**: Each step of gradient descent uses **all** the traning examples.
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%201.png)
+It has been proven that if learning rate _**α**_ is sufficiently small, then _**J(θ)**_ will decrease on every iteration.
+
+
 
 We will know that we have succeeded when our cost function is at the very bottom of the pits in our graph, i.e. when its value is the minimum. The red arrows show the minimum points in the graph.
 
@@ -40,9 +43,9 @@ repeat until convergence:
 
 ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%20Formula.png)
 
-where _j=0,1_ represents the feature index number.
+where _**j=0,1**_ represents the feature index number.
 
-At each iteration _j_, one should simultaneously update the parameters theta. Updating a specific parameter prior to calculating another one on the _j<sup>(th)</sup>_ iteration would yield to a wrong implementation.
+At each iteration _**j**_, one should simultaneously update the parameters _**θ**_. Updating a specific parameter prior to calculating another one on the _**j<sup>(th)</sup>**_ iteration would yield to a wrong implementation.
 
 - The gradient descent can converge to a local minimum, even with the learning rate  _**α fixed**_.
 - As we approach a local minimum, gradient descent will automatically take smaller steps. So no need to decrease _**α**_ over time.
@@ -60,13 +63,13 @@ At each iteration _j_, one should simultaneously update the parameters theta. Up
 
 ## Gradient Descent For Linear Regression
 
-When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to :
+When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to:
 
 ![Gradient Descent for Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%20for%20Linear%20Regression.png)
 
-where _**m**_ is the size of the training set, _**theta<sub>0</sub>**_ a constant that will be changing simultaneously with _**theta<sub>1</sub>**_ and  _**x<sub>i</sub>**_, _**y<sub>i</sub>**_ are values of the given training set (data).
+where _**m**_ is the size of the training set, _**θ<sub>0</sub>**_ a constant that will be changing simultaneously with _**θ<sub>1</sub>**_ and  _**x<sub>i</sub>**_, _**y<sub>i</sub>**_ are values of the given training set (data).
 
-- Note that we have separated out the two cases for  _**theta<sub>j</sub>**_ into separate equations for _**theta<sub>0</sub>**_ and _**theta<sub>1</sub>**_.
+- Note that we have separated out the two cases for  _**θ<sub>j</sub>**_ into separate equations for _**θ<sub>0</sub>**_ and _**θ<sub>1</sub>**_.
 
 ![Formula 1](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Formula%201.png)
 
@@ -91,3 +94,17 @@ Where _µ<sub>i</sub>_  is the **average** of all the values for feature (i) and
 ![Formula 2](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Formula%202.png)
 
 Note that dividing by the range, or dividing by the standard deviation, give different results. The quizzes in this course use range - the programming exercises use standard deviation.
+
+## Debugging Gradient Descent
+
+ Make a plot with number of iterations on the x-axis. 
+ Now plot the cost function, **_J(θ)_** over the number of iterations of gradient descent. If **_J(θ)_** ever increases, then you probably need to decrease _**α**_.
+ 
+**Automatic convergence test.** Declare convergence if _**J(θ)**_ decreases by less than **_ℇ_** in one iteration, where _**ℇ_** is some small value such as _**10<sup>-3</sup>**_. However in practice it's difficult to choose this threshold value.
+![Gradient Descent 6](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%206.png)
+
+It has been proven that if learning rate _**α**_ is sufficiently small, then _**J(θ)**_ will decrease on every iteration.
+![Gradient Descent 7](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Gradient%20Descent%207.png)
+
+- [ ] **If _α_ is too small:** slow convergence.
+- [ ] **If _α_ is too large:** ￼may not decrease on every iteration and thus may not converge.
