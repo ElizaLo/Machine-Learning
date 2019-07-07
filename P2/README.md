@@ -1,6 +1,13 @@
 # Linear Regression
 
-In statistics, **linear regression** is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables).
+## Definition
+
+**Linear regression** is a linear model, e.g. a model that assumes a linear relationship between the input variables (_x_) and the single output variable (_y_). More specifically, that output variable (_y_) can be calculated from a linear combination of the input variables (_x_).
+
+![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg)
+
+On the image above there is an example of dependency between input variable _x_ and output variable _y_. The red line in the above graph is referred to as the best fit straight line. Based on the given data points (training examples), we try to plot a line that models the points the best. In the real world scenario we normally have more than one input variable.
+
 
 ## Cost Function
 
@@ -108,3 +115,27 @@ It has been proven that if learning rate _**α**_ is sufficiently small, then _*
 
 - [ ] **If _α_ is too small:** slow convergence.
 - [ ] **If _α_ is too large:** ￼may not decrease on every iteration and thus may not converge.
+
+# Polynomial Regression
+
+We can **combine** multiple features into one. _For example_, we can combine _**x<sub>1</sub>**_ and _**x<sub>2</sub>**_ into a new feature _**x<sub>3</sub>**_ by taking _**x<sub>1</sub>∙x<sub>2</sub>**_.
+
+We can **change the behavior or curve** of our hypothesis function by making it a quadratic, cubic or square root function (or any other form).
+
+**Polynomial regression** is a form of regression analysis in which the relationship between the independent variable _x_ and the dependent variable _y_ is modelled as an _n<sup>th</sup>_ degree polynomial in _x_.
+
+Although polynomial regression fits a nonlinear model to the data, as a statistical estimation problem it is linear, in the sense that the hypothesis function is linear in the unknown parameters that are estimated from the data. For this reason, polynomial regression is considered to be a special case of multiple linear regression.
+
+![Polynomial Regression](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Polyreg_scheffe.svg/650px-Polyreg_scheffe.svg.png)
+
+_For example_, if our hypothesis function is _**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub>**_ then we can create additional features based on _**x<sub>1</sub>**_, to get the _quadratic function_ 
+_**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽<sub>2</sub>x<sub>2</sub><sup>2</sup>**_ 
+or the _cubic function_ 
+_**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽<sub>2</sub>x<sub>2</sub><sup>2</sup> + 𝜽<sub>3</sub>x<sub>3</sub><sup>3</sup>**_.
+
+In the _cubic version_, we have created new features  _**x<sub>2</sub>**_ and  _**x<sub>3</sub>**_, where _**x<sub>2</sub> = x<sub>1</sub><sup>2</sup>**_ and _**x<sub>3</sub> = x<sub>1</sub><sup>2</sup>**_.
+
+_For example_, if the price of the apartment is in non-linear dependency of its size then you might add several new size-related features:
+
+_**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽<sub>2</sub>x<sub>2</sub> + 𝜽<sub>3</sub>x<sub>3</sub> = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>(size) + 𝜽<sub>2</sub>(size)<sup>2</sup> + 𝜽<sub>3</sub>(size)<sup>3</sup>**_.
+
