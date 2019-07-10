@@ -1,5 +1,9 @@
 # Machine Learning using Jupiter Notebook and Google Colab
 
+> For Octave/MatLab version of Machine Learning algorithms please check [Machine Learning Course in Octave / MatLab](https://github.com/ElizaLo/Machine-Learning-Course-Octave) repository.
+
+This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
+
 ⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
@@ -18,6 +22,72 @@
   
 🗣 **Natural Language Processing:**  
 - [ ] [**NLP Projects Repository**](https://github.com/ElizaLo/NLP)
+
+## Machine Learning Map
+
+![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
+ 
+## Supervised Learning
+
+In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
+
+In supervised learning we have a set of training data as an input and a set of labels or "correct answers" for each training set as an output. Then we're training our model (machine learning algorithm parameters) to map the input to the output correctly (to do correct prediction). The ultimate purpose is to find such model parameters that will successfully continue correct input→output mapping (predictions) even for new input examples.
+
+Supervised learning problems are categorized into **"regression"** and **"classification"** problems. 
+- [ ] In a **regression problem**, we are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function. 
+- [ ] In a **classification problem**, we are instead trying to predict results in a discrete output. In other words, we are trying to map input variables into discrete categories.
+
+_**Example 1:**_
+
+- Given data about the size of houses on the real estate market, try to predict their price. Price as a function of size is a continuous output, so this is a regression problem.
+
+We could turn this example into a classification problem by instead making our output about whether the house "sells for more or less than the asking price." Here we are classifying the houses based on price into two discrete categories.
+
+_**Example 2:**_
+
+- **Regression** - Given a picture of a person, we have to predict their age on the basis of the given picture
+
+- **Classification** - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
+
+### ▶️ Regression
+
+In regression problems we do real value predictions. Basically we try to draw a line/plane/n-dimensional plane along the training examples. 
+
+💻 _**Usage examples:** stock price forecast, sales analysis, dependency of any number, etc._
+
+🔵 [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+  - 📘 [Math](https://github.com/ElizaLo/Machine-Learning-Course-Octave/tree/master/Linear%20Regression#linear-regression) - theory and [useful links](https://github.com/ElizaLo/Machine-Learning-Course-Octave/tree/master/Linear%20Regression#-references)
+  
+🔵 [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  
+### ▶️ Classification
+
+In classification problems we split input examples by certain characteristic.
+
+💻 _**Usage examples:** spam-filters, language detection, finding similar documents, handwritten letters recognition, etc._
+
+## Unsupervised Learning
+
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
+
+- [ ] We can derive this structure by clustering the data based on relationships among the variables in the data.
+
+- [ ] With unsupervised learning there is no feedback based on the prediction results.
+
+Unsupervised learning is a branch of machine learning that learns from test data that has not been labeled, classified or categorized. Instead of responding to feedback, unsupervised learning identifies commonalities in the data and reacts based on the presence or absence of such commonalities in each new piece of data.
+
+_**Example:**_
+
+- **Clustering:** Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+
+- **Non-clustering:** The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a [cocktail party](https://en.wikipedia.org/wiki/Cocktail_party_effect)).
+
+### ▶️ Clustering
+
+In clustering problems we split the training examples by unknown characteristics. The algorithm itself decides what characteristic to use for splitting.
+
+💻 _**Usage examples:** market segmentation, social networks analysis, organize computing clusters, astronomical data analysis, image compression, etc._
+
  
 ## What's is the difference between _train, validation and test set_, in neural networks?
 
