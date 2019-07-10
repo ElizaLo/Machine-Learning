@@ -1,29 +1,37 @@
 # Linear Regression
 
+ - 📘 [Math](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#linear-regression)
+      - ["Batch" Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#batch-gradient-descent)
+      - [Gradient Descent For Linear Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-linear-regression)
+      - [Gradient Descent For Multiple Variables](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#gradient-descent-for-multiple-variables)
+      - [Normal Equation](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#normal-equation)
+  - 📘 [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  - 💻 [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P2)
+
 ## Definition
 
-**Linear regression** is a linear model, e.g. a model that assumes a linear relationship between the input variables (_x_) and the single output variable (_y_). More specifically, that output variable (_y_) can be calculated from a linear combination of the input variables (_x_).
+**Linear regression** is a linear model, e.g. a model that assumes a linear relationship between the input variables (_**x**_) and the single output variable (_**y**_). More specifically, that output variable (_**y**_) can be calculated from a linear combination of the input variables (_**x**_).
 
 ![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg)
 
-On the image above there is an example of dependency between input variable _x_ and output variable _y_. The red line in the above graph is referred to as the best fit straight line. Based on the given data points (training examples), we try to plot a line that models the points the best. In the real world scenario we normally have more than one input variable.
+On the image above there is an example of dependency between input variable _**x**_ and output variable _**y**_. The red line in the above graph is referred to as the best fit straight line. Based on the given data points (training examples), we try to plot a line that models the points the best. In the real world scenario we normally have more than one input variable.
 
 
 ## Cost Function
 
-We can measure the accuracy of our hypothesis function by using a **cost function**. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from _x_'s and the actual output _y_'s.
+We can measure the accuracy of our hypothesis function by using a **cost function**. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from _**x**_'s and the actual output _**y**_'s.
 
 Function that shows how accurate the predictions of the hypothesis are with current set of parameters.
 
 ![Cost Function](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/cost_function.png)
 
-_x<sup>i</sup>_ - input (features) of _i<sup>th</sup>_ training example
+_**x<sup> i</sup>**_ - input (features) of _i<sup>th</sup>_ training example
 
-_y<sup>i</sup>_ - output of _i<sup>th</sup>_ training example
+_**y<sup> i</sup>**_ - output of _i<sup>th</sup>_ training example
 
-_m_ - number of training examples
+_**m**_ - number of training examples
 
-![difference](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/difference.png) - difference between the predicted value and the actual value
+_**h<sub>𝜽</sub>(x<sub>i</sub>) - (y<sub>i</sub>)**_ - difference between the predicted value and the actual value
 
 This function is otherwise called the **"Squared error function"**, or **"Mean squared error"**. The mean is halved 1/2 as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the 1/2 term. 
 
@@ -42,7 +50,7 @@ We will know that we have succeeded when our cost function is at the very bottom
 
 The way we do this is by taking the derivative (the tangential line to a function) of our cost function. The slope of the tangent is the derivative at that point and it will give us a direction to move towards. We make steps down the cost function in the direction with the steepest descent. The size of each step is determined by the parameter _**α**_, which is called the learning rate.
 
-For example, the distance between each _'star'_ in the graph above represents a step determined by our parameter _**α**_. A smaller _**α**_ would result in a smaller step and a larger _**α**_ results in a larger step. The direction in which the step is taken is determined by the partial derivative of ![Gradient Descent](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/J(theta_0%2C%20theta_1).png). Depending on where one starts on the graph, one could end up at different points. The image above shows us two different starting points that end up in two different places.
+For example, the distance between each _'star'_ in the graph above represents a step determined by our parameter _**α**_. A smaller _**α**_ would result in a smaller step and a larger _**α**_ results in a larger step. The direction in which the step is taken is determined by the partial derivative of _**J(𝜽<sub>0</sub>,𝜽<sub>1</sub>**_). Depending on where one starts on the graph, one could end up at different points. The image above shows us two different starting points that end up in two different places.
 
 **The gradient descent algorithm is:**
 
@@ -139,7 +147,7 @@ _For example_, if the price of the apartment is in non-linear dependency of its 
 
 _**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽<sub>2</sub>x<sub>2</sub> + 𝜽<sub>3</sub>x<sub>3</sub> = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>(size) + 𝜽<sub>2</sub>(size)<sup>2</sup> + 𝜽<sub>3</sub>(size)<sup>3</sup>**_.
 
-- [ ] **!** One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
+- [x] One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
 
 _For example_, if _**x<sub>1</sub>**_ has range 1-1'000 then range of _**x<sub>1</sub><sup>2</sup>**_ becomes 1-1'000'000 and that of _**x<sub>1</sub><sup>3</sup>**_ becomes 1-1'000'000'000.
 
