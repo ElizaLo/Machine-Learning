@@ -25,13 +25,13 @@ Function that shows how accurate the predictions of the hypothesis are with curr
 
 ![Cost Function](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/cost_function.png)
 
-_**x<sup> i</sup>**_ - input (features) of _i<sup>th</sup>_ training example
+_**x<sup> i</sup>**_ - input (features) of _i<sup> th</sup>_ training example
 
-_**y<sup> i</sup>**_ - output of _i<sup>th</sup>_ training example
+_**y<sup> i</sup>**_ - output of _i<sup> th</sup>_ training example
 
 _**m**_ - number of training examples
 
-_**h<sub>𝜽</sub>(x<sub>i</sub>) - (y<sub>i</sub>)**_ - difference between the predicted value and the actual value
+_**h<sub>𝜽</sub>(x<sub> i</sub>) - (y<sub> i</sub>)**_ - difference between the predicted value and the actual value
 
 This function is otherwise called the **"Squared error function"**, or **"Mean squared error"**. The mean is halved 1/2 as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the 1/2 term. 
 
