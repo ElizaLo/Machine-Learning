@@ -183,7 +183,7 @@ If _**𝘟<sup>𝘛</sup>𝘟**_ is **noninvertible**, the common causes might b
 
 - [x] Solutions to the above problems include deleting a feature that is linearly dependent with another or deleting one or more features when there are too many features.
 
-## References
+## 📚 References
 
 - [Ordinary Least Squares Regression - ML Wiki](http://mlwiki.org/index.php/OLS_Regression)
 - [Normal Equation - ML Wiki](http://mlwiki.org/index.php/Normal_Equation)
