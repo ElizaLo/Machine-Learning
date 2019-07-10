@@ -182,3 +182,9 @@ If _**𝘟<sup>𝘛</sup>𝘟**_ is **noninvertible**, the common causes might b
 - Too many features (e.g. m ≤ n). In this case, delete some features or use "regularization" (to be explained in a later lesson).
 
 - [x] Solutions to the above problems include deleting a feature that is linearly dependent with another or deleting one or more features when there are too many features.
+
+## References
+
+- [Ordinary Least Squares Regression - ML Wiki](http://mlwiki.org/index.php/OLS_Regression)
+- [Normal Equation - ML Wiki](http://mlwiki.org/index.php/Normal_Equation)
+- [Design matrix - Wikipedia](https://en.wikipedia.org/wiki/Design_matrix)
