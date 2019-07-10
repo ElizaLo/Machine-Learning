@@ -142,3 +142,27 @@ _**h<sub>𝜽</sub>(x) = 𝜽<sub>0</sub> + 𝜽<sub>1</sub>x<sub>1</sub> + 𝜽
 - [ ] **!** One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
 
 _For example_, if _**x<sub>1</sub>**_ has range 1-1'000 then range of _**x<sub>1</sub><sup>2</sup>**_ becomes 1-1'000'000 and that of _**x<sub>1</sub><sup>3</sup>**_ becomes 1-1'000'000'000.
+
+# Normal Equation
+
+In the **"Normal Equation"** method, we will minimize _**J**_ by explicitly taking its derivatives with respect to the  _**𝜽<sub>j</sub> ’s**_, and setting them to zero. This allows us to find the optimum theta without iteration. 
+
+- The normal equation formula is given below:
+
+![Normal Equation Formula](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Normal%20Equation%20Formula.png)
+
+![Normal Equation 1](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/P2/images/Normal%20Equation%201.png)
+
+
+There is **no need** to do feature scaling with the normal equation.
+
+The following is a comparison of gradient descent and the normal equation:
+
+| Gradient Descent | Normal Equation |
+| :--- | :--- |
+| Need to choose alpha | No need to choose alpha |
+| Needs many iterations | No need to iterate |
+| _**𝛰(k n<sup>2</sup>)**_ | _**𝛰(n<sup>3</sup>)**_, need to calculate inverse of 𝘟<sup>𝘛</sup>𝘟 |
+| Works well when _**n**_ is large | Slow if _**n**_ is very large |
+
+With the normal equation, computing the inversion has complexity _**𝛰(n<sup>3</sup>)**_. So if we have a very large number of features, the normal equation will be slow. In practice, when n exceeds 10,000 it might be a good time to go from a normal solution to an iterative process.
