@@ -4,6 +4,8 @@
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
+⏹ [**Tensor Calculus**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus)
+
 ⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
