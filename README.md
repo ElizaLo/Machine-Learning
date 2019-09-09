@@ -15,7 +15,7 @@ This repository contains examples of popular machine learning algorithms impleme
   5. [**_Computer Vision - Blurred Images_**](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
   6. [**_OpenCV_**](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
   7. [**_Convolutional Neural Network (CNN)_**](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
-  8. [**_Gated Recurrent Units (GRU)_**](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
+  8. [**_Gated Recurrent Units (GRU)_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
   
 👩‍💻 **Projects:**
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
