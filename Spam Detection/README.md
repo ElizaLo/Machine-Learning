@@ -1,7 +1,16 @@
 # Spam Detection
 
+Comparison and analysis of several algorithms on the problem of detecting spam in messages. The analysis of the data set is carried out. 
+
 - [SMS Spam Collection Dataset](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/Spam%20Detection/spam.csv)
 - The files contain one message per line. Each line is composed by two columns: v1 contains the label (**_ham or spam_**) and v2 contains the raw text. 
+
+**Realised methods:**
+- Naive Bayes spam filtering
+- K-Nearest Neighbors algorithm
+- Decision Tree learning
+- Support Vector Machine (SVM)
+- Random Forest
 
  ## **Methods**
  
