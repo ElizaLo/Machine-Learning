@@ -27,7 +27,7 @@ This repository contains examples of popular machine learning algorithms impleme
 🗣 **Natural Language Processing:**  
 - [ ] [**NLP Projects Repository**](https://github.com/ElizaLo/NLP)
 
-
+---------------------------------
 - [ ] [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 - [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
     - [Code](https://drive.google.com/file/d/16hiZefHVkIb8Cvhf3BbBXsOOV9hob7eo/view)
