@@ -7,6 +7,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [ ] [**Tensor Calculus**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus)
   - [Tucker Decomposition](https://en.wikipedia.org/wiki/Tucker_decomposition), [Article](https://link.springer.com/article/10.1007/BF02289464)
 - [ ] [**Data Mining**](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
+- [ ] [**CIS 700-008 - Interactive Fiction and Text Generation**](http://interactive-fiction-class.org/)
 
 ⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
