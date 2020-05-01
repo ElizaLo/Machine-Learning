@@ -1,19 +1,56 @@
-# Machine Learning using Jupiter Notebook and Google Colab
+# Machine Learning 
 
 > For Octave/MatLab version of Machine Learning algorithms please check [Machine Learning Course in Octave / MatLab](https://github.com/ElizaLo/Machine-Learning-Course-Octave) repository.
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
---------------------
 
-- [Katakoda](https://www.katacoda.com/)
+# University Courses 
 
-----------------------
+<details>
+ <summary> List of Courses </summary> 
+<ul style="list-style-type:circle;">
+  <li> <a href="https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1"> Курс Машинное обучение. Воронцов</a> </li>
+  <li><a href="https://github.com/esokolov/ml-course-hse"> Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов</a> </li>
+  <li><a href="https://www.cs.utah.edu/~jeffp/teaching/cs5955.html"> Data Mining</a> </li>
+</ul>
+</details>
 
-- [ ] [**Tensor Calculus**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus)
-  - [Tucker Decomposition](https://en.wikipedia.org/wiki/Tucker_decomposition), [Article](https://link.springer.com/article/10.1007/BF02289464)
-- [ ] [**Data Mining**](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
---------------------------------------------
+
+# Coursera Courses
+
+<details>
+ <summary> List of Coursera Courses </summary> 
+<ul style="list-style-type:circle;">
+  <li> <a href="https://www.coursera.org/specializations/aml"> Spesialization: Advanced Machine Learning </a> </li>
+  <li><a href=""> </a> </li>
+  <li><a href=""> </a> </li>
+</ul>
+</details>
+
+
+# Books
+<details>
+ <summary> List of Books </summary> 
+<ul style="list-style-type:circle;">
+  <li> <a href="https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus" target="_blank">An Introduction to Statistical Learning</a> </li>
+  <li><a href="http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf" target="_blank">Tensor Calculus</a></li>
+  <li><a href="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=asc_df_0387848576/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o2&hvnetw=g&hvrand=14103077512698652064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031958&hvtargid=aud-801738734305:pla-487139763557&psc=1">The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)</a> </li>
+  <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf" target="_blank">Pattern Recognition and Machine Learning, Bishop</a></li>
+  <li><a href="" target="_blank"> a </a></li>
+</ul>
+</details>
+
+
+# Other
+<details>
+ <summary> Other useful links </summary> 
+<ul style="list-style-type:circle;">
+  <li> <a href="https://en.wikipedia.org/wiki/Tucker_decomposition"> Tucker Decomposition </a>, <a href="https://link.springer.com/article/10.1007/BF02289464"> Article </a> </li>
+  <li><a href="https://www.katacoda.com/"> Katakoda</a> </li>
+  <li><a href=""> </a> </li>
+</ul>
+</details>
 
 ⚙️ **Models and Algorithms:**
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
