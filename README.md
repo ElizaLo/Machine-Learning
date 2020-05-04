@@ -5,7 +5,7 @@
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
 
-## 👩‍🎓👨🏼‍🎓 University Courses 
+## 🎓 Top University Courses 
 
 <details>
  <summary> List of Courses </summary> 
@@ -28,6 +28,15 @@ This repository contains examples of popular machine learning algorithms impleme
 </ul>
 </details>
 
+## 🟥 YouTube Videos
+
+<details>
+ <summary> List of YouTube Videos </summary> 
+ <ul style="list-style-type:circle;">
+  <li><a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx"> TensorFlow: Coding TensorFlow </a> (playlist) </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2"> Google Cloud Platform: AI Adventures </a> (playlist) </li>
+</ul>
+</details>
 
 ## 📚 Books
 <details>
