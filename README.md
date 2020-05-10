@@ -50,6 +50,16 @@ This repository contains examples of popular machine learning algorithms impleme
 </ul>
 </details>
 
+## ▶️ Websites
+<details>
+ <summary> List of websites  </summary> 
+<ul style="list-style-type:circle;">
+  <li> <a href="https://www.thetalkingmachines.com"> Talking Machines </a> </li>
+  <li><a href=""> </a> </li>
+  <li><a href=""> </a> </li>
+</ul>
+</details>
+
 
 ## 📌 Other
 <details>
