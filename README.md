@@ -11,7 +11,7 @@
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
-### Table of Contents
+## Table of Contents
 
 - [Top University Courses](https://github.com/ElizaLo/Machine-Learning#-top-university-courses)
 - [Coursera Courses](https://github.com/ElizaLo/Machine-Learning#-coursera-courses)
@@ -19,6 +19,15 @@ This repository contains examples of popular machine learning algorithms impleme
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
+- [Reinforcement Learning ](https://github.com/ElizaLo/Machine-Learning#reinforcement-learning)
+  - Books
+  - Classes
+  - Task / Tutorials
+  - GitHub Repositories
+- [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
+- [Supervised Learning](https://github.com/ElizaLo/Machine-Learning#supervised-learning)
+- [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning#unsupervised-learning)
+- [What's is the difference between train, validation and test set, in neural networks?](https://github.com/ElizaLo/Machine-Learning#whats-is-the-difference-between-train-validation-and-test-set-in-neural-networks)
 - [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
   1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
@@ -95,7 +104,7 @@ This repository contains examples of popular machine learning algorithms impleme
    - [Deep Reinforcement Learning Slides @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
    - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html)
    - [Advanced Deep Learning & Reinforcement Learning (UCL 2018, DeepMind) -Deep RL Bootcamp](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-- [ ] Github:
+- [ ] GitHub Repositories:
    - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning), Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. 
     
 ## Machine Learning Map
@@ -182,7 +191,7 @@ In clustering problems we split the training examples by unknown characteristics
 
 **[Early stopping](https://en.wikipedia.org/wiki/Early_stopping)** is a way to stop training. There are different variations available, the main outline is, both the train and the validation set errors are monitored, the train error decreases at each iteration ([backpropagation](https://en.wikipedia.org/wiki/Backpropagation) and brothers) and at first the validation error decreases. The training is stopped at the moment the validation error starts to rise. The weight configuration at this point indicates a model, which predicts the training data well, as well as the data which is not seen by the network . But because the validation data actually affects the weight configuration indirectly to select the weight configuration. This is where the Test set comes in. This set of data is never used in the training process. Once a model is selected based on the validation set, the test set data is applied on the network model and the error for this set is found. This error is a representative of the error which we can expect from absolutely new data for the same problem.
  
-# ⚙️ **Models and Algorithms:**
+# ⚙️ **Models and Algorithms Implementation:**
 
  1. ## **k Nearest Neighbor**
     - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/k%20Nearest%20Neighbor/kNN.py)
