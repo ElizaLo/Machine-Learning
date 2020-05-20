@@ -1,77 +1,93 @@
-# Machine Learning 
+<img src="https://github.com/ElizaLo/Machine-Learning/blob/master/images/Banner_Machine_Learning.png" width="900" height="100">
 
-> For Octave/MatLab version of Machine Learning algorithms please check [Machine Learning Course in Octave / MatLab](https://github.com/ElizaLo/Machine-Learning-Course-Octave) repository.
+> - [ ] For **Octave/MatLab** version of Machine Learning algorithms please check [Machine Learning Course in Octave / MatLab](https://github.com/ElizaLo/Machine-Learning-Course-Octave) repository.
+
+> - [ ] For **Deep Learning** algorithms please check [Deep Learning](https://github.com/ElizaLo/Deep-Learning) repository.
+
+> - [ ] For **Natural Language Processing** (NLU = NLP + NLG) please check [Natural Language Processing](https://github.com/ElizaLo/NLP-Natural-Language-Processing) repository.
+
+> - [ ] For **Computer Vision** please check [Computer Vision](https://github.com/ElizaLo/Computer-Vision) repository.
+
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
+### Table of Contents
+
+- [Top University Courses](https://github.com/ElizaLo/Machine-Learning#-top-university-courses)
+- [Coursera Courses](https://github.com/ElizaLo/Machine-Learning#-coursera-courses)
+- [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
+- [Books](https://github.com/ElizaLo/Machine-Learning#-books)
+- [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
+- [Other](https://github.com/ElizaLo/Machine-Learning#-other)
 
 ## 🎓 Top University Courses 
 
-<details>
- <summary> List of Courses </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1"> Курс Машинное обучение. Воронцов</a> </li>
-  <li><a href="https://github.com/esokolov/ml-course-hse"> Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов</a> </li>
-  <li><a href="https://www.cs.utah.edu/~jeffp/teaching/cs5955.html"> Data Mining</a> </li>
-</ul>
-</details>
+- [ ] [Курс Машинное обучение. Воронцов](https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1)
+- [ ] [Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов](https://github.com/esokolov/ml-course-hse)
+- [ ] [Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
+- [ ] [UCL Course on Reinforcement Learning by David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 
 ## 🔹 Coursera Courses
 
-<details>
- <summary> List of Coursera Courses </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://www.coursera.org/specializations/aml"> Spesialization: Advanced Machine Learning </a> </li>
-  <li><a href=""> </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+- [ ] [Spesialization: Advanced Machine Learning ](https://www.coursera.org/specializations/aml)
+
 
 ## 🟥 YouTube Videos
 
-<details>
- <summary> List of YouTube Videos </summary> 
- <ul style="list-style-type:circle;">
-  <li><a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx"> TensorFlow: Coding TensorFlow </a> (playlist) </li>
-  <li><a href="https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2"> Google Cloud Platform: AI Adventures </a> (playlist) </li>
-</ul>
-</details>
+- [ ] [TensorFlow: Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) playlist
+- [ ] [Google Cloud Platform: AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
+- [ ] [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) channel
 
 ## 📚 Books
-<details>
- <summary> List of Books </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus" target="_blank">An Introduction to Statistical Learning</a> </li>
-  <li><a href="http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf" target="_blank">Tensor Calculus</a></li>
-  <li><a href="https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=asc_df_0387848576/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o2&hvnetw=g&hvrand=14103077512698652064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031958&hvtargid=aud-801738734305:pla-487139763557&psc=1">The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)</a> </li>
-  <li><a href="http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf" target="_blank">Pattern Recognition and Machine Learning, Bishop</a></li>
-  <li><a href="" target="_blank"> a </a></li>
-</ul>
-</details>
+
+- [ ] [An Introduction to Statistical Learning](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus)
+- [ ] [Tensor Calculus](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+- [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=asc_df_0387848576/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o2&hvnetw=g&hvrand=14103077512698652064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031958&hvtargid=aud-801738734305:pla-487139763557&psc=1)
+ - [ ] [Pattern Recognition and Machine Learning, Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ## ▶️ Websites
-<details>
- <summary> List of websites  </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://www.thetalkingmachines.com"> Talking Machines </a> </li>
-  <li><a href=""> </a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
 
+- [ ] [Talking Machines](https://www.thetalkingmachines.com)Talking Machines
+
+## 📁 GitHub Repositories
+
+- [ ] [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+    
 
 ## 📌 Other
-<details>
- <summary> Other useful links </summary> 
-<ul style="list-style-type:circle;">
-  <li> <a href="https://en.wikipedia.org/wiki/Tucker_decomposition"> Tucker Decomposition </a>, <a href="https://link.springer.com/article/10.1007/BF02289464"> Article </a> </li>
-  <li><a href="https://www.katacoda.com/"> Katakoda</a> </li>
-  <li><a href=""> </a> </li>
-</ul>
-</details>
+- [ ] [Tucker Decomposition](https://en.wikipedia.org/wiki/Tucker_decomposition), [Article](https://link.springer.com/article/10.1007/BF02289464)
+ - [ ] [Katakoda](https://www.katacoda.com/)
+ - [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+    - [Code](https://drive.google.com/file/d/16hiZefHVkIb8Cvhf3BbBXsOOV9hob7eo/view)
+    
+## Reinforcement Learning 
 
-⚙️ **Models and Algorithms:**
+- [ ] Books:
+   - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
+- [ ] Classes:
+   - [David Silver's Reinforcement Learning Course (UCL, 2015)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+   - [CS294 - Deep Reinforcement Learning (Berkeley, Fall 2015)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+   - [CS 8803 - Reinforcement Learning (Georgia Tech)](https://www.udacity.com/course/reinforcement-learning--ud600)
+   - [CS885 - Reinforcement Learning (UWaterloo), Spring 2018](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+   - [CS294-112 - Deep Reinforcement Learning (UC Berkeley)](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [ ] Task / Tutorials:
+   - [Introduction to Reinforcement Learning (Joelle Pineau @ Deep Learning Summer School 2016)](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+   - [Deep Reinforcement Learning (Pieter Abbeel @ Deep Learning Summer School 2016)](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+   - [Deep Reinforcement Learning ICML 2016 Tutorial (David Silver)](http://techtalks.tv/talks/deep-reinforcement-learning/62360/)
+   - [Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4)
+   - [John Schulman - Deep Reinforcement Learning (4 Lectures)](https://www.youtube.com/playlist?list=PLjKEIQlKCTZYN3CYBlj8r58SbNorobqcp)
+   - [Deep Reinforcement Learning Slides @ NIPS 2016](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
+   - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html)
+   - [Advanced Deep Learning & Reinforcement Learning (UCL 2018, DeepMind) -Deep RL Bootcamp](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [ ] Github:
+   - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning), Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. 
+    
+## Machine Learning Map
+
+![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
+
+## ⚙️ Models and Algorithms Implementation
   1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
   2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
       - [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
@@ -82,24 +98,12 @@ This repository contains examples of popular machine learning algorithms impleme
   7. [**_Convolutional Neural Network (CNN)_**](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
   8. [**_Gated Recurrent Units (GRU)_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
   
-👩‍💻 **Projects:**
+## 👩‍💻 Projects
   - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
   - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
   - **_Quora Insincere Questions Classification_**
   - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
   
-🗣 **Natural Language Processing:**  
-- [ ] [**NLP Projects Repository**](https://github.com/ElizaLo/NLP)
-
----------------------------------
-- [ ] [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-- [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
-    - [Code](https://drive.google.com/file/d/16hiZefHVkIb8Cvhf3BbBXsOOV9hob7eo/view)
-- [ ] [UCL Course on Reinforcement Learning by David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
-## Machine Learning Map
-
-![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
  
 ## Supervised Learning
 
