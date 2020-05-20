@@ -19,6 +19,21 @@ This repository contains examples of popular machine learning algorithms impleme
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
+- [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
+  1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
+  2. [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+      - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  3. [Logistic Regression](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
+  4. [Fully Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
+  5. [Computer Vision - Blurred Images](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
+  6. [OpenCV](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
+  7. [Convolutional Neural Network (CNN)](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
+  8. [Gated Recurrent Units (GRU)](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
+- Projects
+  - [Spam Detection](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
+  - [Text Generator](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
+  - **_Quora Insincere Questions Classification_**
+  - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
 
 ## 🎓 Top University Courses 
 
@@ -87,22 +102,6 @@ This repository contains examples of popular machine learning algorithms impleme
 
 ![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
 
-## ⚙️ Models and Algorithms Implementation
-  1. [**_k Nearest Neighbor_**](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
-  2. [**_Linear Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
-      - [**_Polynomial Regression_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
-  3. [**_Logistic Regression_**](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
-  4. [**_Fully Connected Neural Networks_**](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
-  5. [**_Computer Vision - Blurred Images_**](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
-  6. [**_OpenCV_**](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
-  7. [**_Convolutional Neural Network (CNN)_**](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
-  8. [**_Gated Recurrent Units (GRU)_**](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
-  
-## 👩‍💻 Projects
-  - [**_Spam Detection_**](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
-  - [**_Text Generator_**](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
-  - **_Quora Insincere Questions Classification_**
-  - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
   
  
 ## Supervised Learning
