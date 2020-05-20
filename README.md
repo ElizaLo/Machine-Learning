@@ -28,6 +28,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
 - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning#supervised-learning)
 - [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning#unsupervised-learning)
+- [Datasets]()
 - [What's is the difference between train, validation and test set, in neural networks?](https://github.com/ElizaLo/Machine-Learning#whats-is-the-difference-between-train-validation-and-test-set-in-neural-networks)
 - [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
   1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
@@ -44,6 +45,11 @@ This repository contains examples of popular machine learning algorithms impleme
   - [Text Generator](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
   - **_Quora Insincere Questions Classification_**
   - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
+
+    
+## Machine Learning Map
+![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
+
 
 ## 🎓 Top University Courses 
 
@@ -147,6 +153,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
  - [ ] [Katakoda](https://www.katacoda.com/)
  - [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
     - [Code](https://drive.google.com/file/d/16hiZefHVkIb8Cvhf3BbBXsOOV9hob7eo/view)
+
     
 ## Reinforcement Learning 
 
@@ -174,10 +181,6 @@ Advanced courses that require prior knowledge in machine learning and AI.
    - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning), Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 - [ ] [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
-    
-## Machine Learning Map
-
-![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
 
   
  
@@ -242,6 +245,51 @@ In clustering problems we split the training examples by unknown characteristics
 
 💻 _**Usage examples:** market segmentation, social networks analysis, organize computing clusters, astronomical data analysis, image compression, etc._
 
+## 📑 Datasets list
+
+The initial list was provided by Kevyn Collins-Thomson from the University of Michigan School of Information.
+
+- **Long general-purpose list of datasets:** 
+    - https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
+- This website has dozens of public datasets - some fun, some a bit, well.. quirky. external link: 
+    - https://rs.io/100-interesting-data-sets-for-statistics/
+
+- **The Academic Torrents site** has a growing number of datasets, including a few text collections that might be of interest (Wikipedia, email, twitter, academic, etc.) for current or future projects. 
+    - http://academictorrents.com/browse.php?cat=6
+
+- **Google Books n-gram corpus**
+    - External link: http://books.google.com/ngrams
+    - Dataset: external link: http://aws.amazon.com/datasets/8172056142375670
+    
+- **Common Crawl:** • Currently 6 billion Web documents (81 Tb) • Amazon S3 Public Data Set
+    - http://aws.amazon.com/datasets/41740
+    - https://commoncrawl.atlassian.net/wiki/display/CRWL/About+the+Data+Set
+    - Award project using Common Crawl: http://norvigaward.github.io/entries.html
+    - Python example: http://www.freelancer.com/projects/Python-Data-Processing/Python-script-for-CommonCrawl.html
+
+
+- **Business/commercial data Yelp external link:**
+    - http://www.yelp.com/developers/documentation/v2/search_api
+    - Upcoming Deprecation of Yelp API v2 on June 30, 2018 (Posted by Yelp Jun 28, 2017)
+    
+- **Internet Archive** (huge, ever-growing archive of the Web going back to 1990s) external link:
+    - http://archive.org/help/json.php
+    
+- **WikiData:**
+    - https://www.wikidata.org/wiki/Wikidata:Main_Page
+
+- **World Food Facts**
+    - http://world.openfoodfacts.org/data
+
+- **Data USA - a variety of census data**
+    - https://datausa.io/
+    
+- **U.S. Government open data** - datasets from 75 agencies and subagencies
+    - https://data.gov/
+    
+- **NASA data portal** - space and earth science
+    - https://data.nasa.gov/ 
  
 ## What's is the difference between _train, validation and test set_, in neural networks?
 
@@ -260,6 +308,17 @@ In clustering problems we split the training examples by unknown characteristics
 **[Early stopping](https://en.wikipedia.org/wiki/Early_stopping)** is a way to stop training. There are different variations available, the main outline is, both the train and the validation set errors are monitored, the train error decreases at each iteration ([backpropagation](https://en.wikipedia.org/wiki/Backpropagation) and brothers) and at first the validation error decreases. The training is stopped at the moment the validation error starts to rise. The weight configuration at this point indicates a model, which predicts the training data well, as well as the data which is not seen by the network . But because the validation data actually affects the weight configuration indirectly to select the weight configuration. This is where the Test set comes in. This set of data is never used in the training process. Once a model is selected based on the validation set, the test set data is applied on the network model and the error for this set is found. This error is a representative of the error which we can expect from absolutely new data for the same problem.
  
 # ⚙️ **Models and Algorithms Implementation:**
+
+- [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
+  1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
+  2. [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+      - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  3. [Logistic Regression](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
+  4. [Fully Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
+  5. [Computer Vision - Blurred Images](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
+  6. [OpenCV](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
+  7. [Convolutional Neural Network (CNN)](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
+  8. [Gated Recurrent Units (GRU)](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
 
  1. ## **k Nearest Neighbor**
     - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/k%20Nearest%20Neighbor/kNN.py)
