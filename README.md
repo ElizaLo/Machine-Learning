@@ -20,26 +20,26 @@ This repository contains examples of popular machine learning algorithms impleme
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
-- :octocat:[GitHub Repositories]()
-- [Awesome List]()
+- :octocat: [GitHub Repositories](https://github.com/ElizaLo/Machine-Learning#octocat-github-repositories)
+- [Awesome List](https://github.com/ElizaLo/Machine-Learning#awesome-list) :octocat:
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
-- [Neural Networks]()
+- [Neural Networks](https://github.com/ElizaLo/Machine-Learning#neural-networks)
 - [Reinforcement Learning ](https://github.com/ElizaLo/Machine-Learning#reinforcement-learning)
   - Books
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Linear algebra]()
-- [Theory of Probability and Mathematical Statistics]()
-- [Algorithms]()
-- [Python, IPython, Scikit-learn etc.]()
-- [Code editors]()
-- [JavaScript-libraries for visualizing]()
-- [R]()
-- [LateX]()
-- [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-datasets-list)
-- [Reddit]()
-- [Social Networks (chanels, chats, groups, etc.)]()
+- [Linear algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
+- [Theory of Probability and Mathematical Statistics](https://github.com/ElizaLo/Machine-Learning#theory-of-probability-and-mathematical-statistics)
+- [Algorithms](https://github.com/ElizaLo/Machine-Learning#algorithms)
+- [Python, IPython, Scikit-learn etc.](https://github.com/ElizaLo/Machine-Learning#python-ipython-scikit-learn-etc)
+- [Code editors](https://github.com/ElizaLo/Machine-Learning#code-editors)
+- [JavaScript-libraries for visualizing](https://github.com/ElizaLo/Machine-Learning#javascript-libraries-for-visualizing)
+- [R](https://github.com/ElizaLo/Machine-Learning#r)
+- [LateX](https://github.com/ElizaLo/Machine-Learning#latex)
+- [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-open-datasets-list)
+- [Reddit](https://github.com/ElizaLo/Machine-Learning#reddit)
+- [Social Networks (chanels, chats, groups, etc.)](https://github.com/ElizaLo/Machine-Learning#social-networks-chanels-chats-groups-etc)
 - Implementation
   - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Supervised%20Learning)
     - Classification
