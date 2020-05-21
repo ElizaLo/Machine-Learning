@@ -1,5 +1,7 @@
 # Unsupervised Learning
 
+<img src="https://github.com/ElizaLo/Machine-Learning/blob/master/images/Unsupervised%20Learning.jpg" width="1116" height="788">
+
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
 
 - [ ] We can derive this structure by clustering the data based on relationships among the variables in the data.
