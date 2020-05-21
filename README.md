@@ -20,13 +20,24 @@ This repository contains examples of popular machine learning algorithms impleme
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
+- :octocat:[GitHub Repositories]()
+- [Awesome List]()
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
+- [Neural Networks]()
 - [Reinforcement Learning ](https://github.com/ElizaLo/Machine-Learning#reinforcement-learning)
   - Books
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Datasets](https://github.com/ElizaLo/Machine-Learning#-datasets-list)
+- [Linear algebra]()
+- [Theory of Probability and Mathematical Statistics]()
+- [Algorithms]()
+- [Python, IPython, Scikit-learn etc.]()
+- [Code editors]()
+- [JavaScript-libraries for visualizing]()
+- [R]()
+- [LateX]()
+- [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-datasets-list)
 - Implementation
   - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Supervised%20Learning)
     - Classification
@@ -70,6 +81,7 @@ These are great courses to get started in machine learning and AI. No prior expe
   - This modern classic of machine learning courses is a great starting point to understand the concepts and techniques of machine learning. The course covers many widely used techniques, The lecture notes are detailed and review necessary mathematical concepts.
 - [ ] [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [Course website](https://cs231n.github.io)
+  - ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению.
   - A great way to start with deep learning. The course focuses on convolutional neural networks and computer vision, but also gives an overview on recurrent networks and reinforcement learning.
 - [ ] [Introduction to Artificial Intelligence (UC Berkeley CS188)](https://www.youtube.com/playlist?list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH)
   - [Course website](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
@@ -127,42 +139,40 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## 🔹 Online Courses
 
-- [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses);
-- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses);
+- [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
+- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 - [ ] Coursera:
   * [Spesialization: Advanced Machine Learning ](https://www.coursera.org/specializations/aml)
-  * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave);
-  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
-  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML;
-  * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/);
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave)
+  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. По этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye)
+  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML
+  * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/)
   * [Calculus: Single Variable Part 1](https://www.coursera.org/learn/single-variable-calculus) от University of Pennsylvania;
-  * [Calculus One](https://www.coursera.org/learn/calculus1) от The Ohio State University;
-  * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.;
-  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info), а также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/) — курс от МФТИ, ведёт Райгородский А.М.;
-  * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»;
-  * [Эконометрика](https://www.coursera.org/learn/ekonometrika/) (Econometrics) — 10-недельный курс от ВШЭ;
-  * [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) – курс о практическом применении статистики и анализа данных. Для людей, разочаровавшихся в DS и не понимающих, на кой это всё;
-  * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan;
-  * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University;
-  * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) – восьминедельный курс по рекомендательным системам от университета Миннесоты;
+  * [Calculus One](https://www.coursera.org/learn/calculus1) от The Ohio State University
+  * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.
+  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info), а также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/) — курс от МФТИ, ведёт Райгородский А.М.
+  * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»
+  * [Эконометрика](https://www.coursera.org/learn/ekonometrika/) (Econometrics) — 10-недельный курс от ВШЭ
+  * [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) – курс о практическом применении статистики и анализа данных. Для людей, разочаровавшихся в DS и не понимающих, на кой это всё
+  * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan
+  * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University
+  * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) – восьминедельный курс по рекомендательным системам от университета Миннесоты
   * Специализация [Machine Learning](https://www.coursera.org/specializations/machine-learning) от Washington University.
 - [ ]  Udacity:
-  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009);
-  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002);
-  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens;
-  * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков;
+  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens
+  * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков
 - [ ] Edx:
-  * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses);
-  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
-  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
-  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2);
-- [ ] [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения);
-- [ ] [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
-- [ ] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
-- [ ] Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
-- [ ] [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
-- [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению.
-
+  * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses)
+  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
+  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1)
+  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+- [ ] [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
+- [ ] [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses)
+- [ ] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
+- [ ] Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке
+- [ ] [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft 
 
 
 ## 🟥 YouTube Videos
@@ -197,25 +207,21 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Machine Learning](http://www.mlyearning.org/) – Andrew Ng
 - [ ] [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter
 - [ ] [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012)
-- [ ] [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
 - [ ] [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006)
 - [ ] [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington
-- [ ] [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
 - [ ] [R in Action](https://www.manning.com/books/r-in-action)
 - [ ] [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto
 - [ ] [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html)
 - [ ] [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman
 - [ ] [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах
 - [ ] [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
-- [ ] [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
 - [ ] [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
-- [ ] Рекомендации от преподавателей [курса «Математика и Python»](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) и [специализации](/spec-recommendations.md)
 
 ## ▶️ Websites
 
 - [ ] [Talking Machines](https://www.thetalkingmachines.com)
 
-## 📁 GitHub Repositories
+## :octocat: GitHub Repositories
 
 - [ ] [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ
@@ -223,6 +229,17 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ ] [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
  - [ ] [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs)
+ - [ ] [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn
+ - [ ] Рекомендации от преподавателей [курса «Математика и Python»](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) и [специализации](/spec-recommendations.md)
+ - [ ] [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
+ - [ ] [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
+ - [ ] [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
+ 
+ ## Awesome List 
+ 
+- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
+- [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [ ] [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks
     
 
 ## 📌 Other
@@ -242,13 +259,24 @@ Advanced courses that require prior knowledge in machine learning and AI.
  - [ ] [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
  - [ ] [17 ресурсов по машинному обучению](http://tproger.ru/articles/free-programming-books/#machine-learning) от Типичного Программиста
  - [ ] [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science
- - [ ] [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn
  - [ ] [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а
  - [ ] [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing)
  - [ ] [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты
  - [ ] Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам
  - [ ] Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov)
 
+## Neural Networks
+
+- [ ] [Лекции по искусственным нейронным сетям](http://www.ccas.ru/voron/download/NeuralNets.pdf) — К. В. Воронцов
+- [ ] [Нейронные сети на stepic](https://stepic.org/s/eg4Xe6Ry) — теоретические и практические основы искусственных нейронных сетей от Института Биоинформатики
+- [ ] [Искусственный интеллект и машинное обучение](https://ulearn.azurewebsites.net/Course/AIML/) — приятные и качественные лекции по широкому набору тем. Один из немногих из источников на русском языке
+- [ ] [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets). Цитата: «Я уже использовал фразу "живая легенда" и теперь испытываю сложности, поскольку как-то иначе охарактеризовать Джеффри Хинтона (человека, стоящего у истоков современных подходов к обучению нейросетей с помощью алгоритма обратного распространения ошибки) сложно. Курс у него получился отличный»
+- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) – бесплатная онлайн-книга по нейросетям и глубинному обучению ([:octocat: repo on github](https://github.com/mnielsen/neural-networks-and-deep-learning))
+- [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)). During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision
+- [ ] [Tensorflow — Neural Network Playground](http://playground.tensorflow.org/) – игрушечные нейросети в браузере ([:octocat: исходный код](https://github.com/tensorflow/playground))
+- [ ] [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks
+- [ ] [nmn2](https://github.com/jacobandreas/nmn2) – dynamically predicted neural network structures for multi-domain question answering;
+- [ ] [Nervana's Deep Learning Course](https://www.nervanasys.com/deep-learning-tutorials/).
     
 ## Reinforcement Learning 
 
@@ -277,8 +305,143 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 - [ ] [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
 
+## Linear algebra
 
-## 📑 Datasets list
+- [ ]  Sheldon Axler "Linear algebra done right"
+- [ ] [Курс по линейной алгебре на stepic](https://stepic.org/course/Linear-Algebra-Problems-and-Methods-79/syllabus)
+- [ ] [https://www.coursera.org/course/linalg](https://www.coursera.org/course/linalg)
+- [ ] [Принстон](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
+- [ ] [http://dshinin.ru/Upload_Books2/Books/2008-07-15/200807152203201.PDF](http://dshinin.ru/Upload_Books2/Books/2008-07-15/200807152203201.PDF)
+- [ ] [Бойд](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+- [ ] [https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
+- [ ] [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures
+- [ ] [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»
+- [ ] [MIT 18.06 Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) – by Professor Gilbert Strang
+
+
+## Theory of Probability and Mathematical Statistics
+
+- [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman
+- [ ] [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) (free)
+- [ ] [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009)
+- [ ] [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007)
+- [ ] [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014)
+- [ ] [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009)
+- [ ] [Прикладная математическая статистика](http://www.ozon.ru/context/detail/id/18048756/) – Кобзарь А.
+- [ ] [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.
+- [ ] [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info) (также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/)) — курс от МФТИ, ведёт Райгородский А.М.
+- [ ] [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания (_Labs_) на DataCamp, которые не помогают закрепить выученный материал, а, скорее, отвлекают от изучения статистики
+- [ ] [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro/home/welcome) от Duke University
+- [ ] [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy
+- [ ] [Основы статистики](https://stepic.org/course/76) на stepic.org — качественное введение в статистику, на русском языке
+- [ ] [Основы статистики: часть 2](https://stepic.org/course/Основы-статистики-Часть-2-524) — курс продолжает знакомить слушателей с основными понятиями и методами статистики. Курс затронет такие темы как анализ номинативных данных, непараметрические критерии и методы понижения размерности
+- [ ] [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1)
+- [ ] [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics
+- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability
+- [ ] [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.)
+- [ ] [Introduction to Probability](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_cp_14_1?ie=UTF8&refRID=0CF1J1X0J2JFR5JX7BYP) – Joseph K. Blitzstein (2014)
+- [ ] [Causal Inference in Statistics: A Primer](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119186846,subjectCd-ST2A.html) – Pearl J., Glymour M.
+- [ ] [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al
+- [ ] [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219)
+- [ ] [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110) – Гарвардский курс от Joseph K. Blitzstein
+- [ ] [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) — презентация о том, как можно использовать coding skills to "hack statistics"
+
+## Algorithms
+
+- [ ] [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) – специализация на Coursera
+- [ ] [MIT 6.046J Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) – teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice
+- [ ] [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/);
+- [ ] [Реализации алгоритмов](https://ru.m.wikibooks.org/wiki/Реализации_алгоритмов)
+
+## Python, IPython, Scikit-learn etc.
+
+- [ ] [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn
+- [ ] Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/)
+- [ ] [WinPython](https://winpython.github.io) – дистрибутив питона и научных библиотек (+Jupyter, +Spyder) для Windows 7/8/10 ([:octocat: репозиторий на гитхабе](https://github.com/winpython/winpython))
+- [ ] [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books
+- [ ] Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas
+- [ ] [Intermediate Python](https://github.com/lancelote/interpy-ru)  — (переведённое на русский!) краткое онлайн-руководство по нюансам языка, мимо которых часто проходят новички (автор — Yasoob Khalid);
+- [ ] [Effective Python](http://www.effectivepython.com/) — книга от разработчика из Google
+- [ ] [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — подробный IPython-notebook на русском языке
+- [ ] [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+- [ ] [Таблица названий цветов (png)](http://matplotlib.org/1.4.1/mpl_examples/color/named_colors.hires.png) в Python
+- [ ] [Анализ данных при помощи Python](http://playittodeath.ru/анализ-данных-при-помощи-python-графики-в-pandas/) – большая статья про графики в pandas и matplotlib
+- [ ] [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques
+- [ ] Очень [большой список](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) интересных питоновских ноутбуков (от туториалов на три минуты, до целых книг (!) в таком формате)
+- [ ] [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) on Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [ ] [100 Numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html). The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach
+- [ ] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
+- [ ] [Курс по основам Python, алгоритмам и структурам данных](https://github.com/Yorko/python_intro). Курс представлен в виде тетрадок IPython
+- [ ] [@py_digest](https://telegram.me/py_digest) – канал в telegram, уведомляющий о последних новостях из мира Python
+- [ ]  [Python](https://telegram.me/ru_python) – группа в telegram с общением и обсуждением языка программирования Python
+- [ ] [Pythonpedia](https://pythonpedia.com/) – энциклопедия ресурсов по программированию на Python
+- [ ] [10 библиотек для визуализации данных](https://blog.modeanalytics.com/python-data-visualization-libraries/) на Python
+- [ ] [tpot](https://github.com/rhiever/tpot) – A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming
+- [ ] [Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/) – Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free
+- [ ] The [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) code repository and info resource
+- [ ] [introduction to ML with python](https://github.com/amueller/introduction_to_ml_with_python) – Notebooks and code for the book "Introduction to Machine Learning with Python"
+
+## Code editors
+
+- [ ]  [PyCharm от JetBrains](http://www.jetbrains.com/pycharm/) - серьезная IDE для больших проектов
+- [ ] [Spyder](https://pythonhosted.org/spyder/) – the Scientific PYthon Development EnviRonment. Spyder входит в Анаконду (просто введите `spyder` в командной строке)
+- [ ] [Canopy](https://store.enthought.com/downloads/#default) — scientific and analytic Python deployment with integrated analysis environment (рекомендуют в курсе MITx)
+- [ ] [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html) — a data science IDE for Python
+- [ ] [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
+- [ ] [nbviewer](http://nbviewer.jupyter.org) – renders notebooks available on other websites
+- [ ] [Sublime Text 3](http://www.sublimetext.com/3) - VIM XXI века*;, отлично подходит для python, если использовать вместе с плагинами:
+  +  [Package Control](https://packagecontrol.io/) - для быстрой и удобной работы с дополнениями
+  +  [Git](https://packagecontrol.io/packages/Git) - для работы с git
+  +  [Jedi](https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion) - делает автодополнения для Python более умными и глубокими
+  +  [SublimeREPL](https://packagecontrol.io/packages/SublimeREPL) - запускает `Read-eval-print loop` в соседней вкладке, удобно для пошаговой отладки кода
+  +  [Auto-PEP8](https://packagecontrol.io/packages/AutoPEP8) - приводит код в соответствие с каноном стиля *pep8*
+  +  [Python Checker](https://packagecontrol.io/packages/Python%20Checker) - проверка кода
+
+
+- [ ]  [PyCharm vs Sublime Text](https://opensourcehacker.com/2015/05/02/pycharm-vs-sublime-text/) – a blog post comparing these two popular development tools and text editors. 
+- [ ] [PEP 0008](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code.
+
+## JavaScript-libraries for visualizing
+
+- [ ] [d3.js](https://github.com/d3/d3/wiki/Gallery)
+- [ ] [JS Charts](http://www.jscharts.com/) – a JavaScript based chart generator that requires little or no coding. With JS Charts drawing charts is a simple and easy task, since you only have to use client-side scripting
+- [ ] [LT Diagram Builder](http://www.lutanho.net/)
+- [ ] [Flot](http://www.flotcharts.org/) – a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features
+- [ ] Canvas 3D Graph
+- [ ] JQuery Visualize Plugin
+- [ ] PlotKit
+- [ ] http://www.ajaxline.com/10-best-free-javascript-charts-solutions
+- [ ] http://webtecker.com/2008/06/12/10-free-chart-scripts/
+- [ ] raphaeljs.com
+- [ ] www.deensoft.com/lab/protochart/
+- [ ] http://teethgrinder.co.uk/open-flash-chart-2
+
+## R
+
+- [ ] [R in Action](https://www.manning.com/books/r-in-action)
+- [ ] [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – в этом курсе практические задания на R;
+- [ ] [Анализ данных на R в примерах и задачах](http://www.youtube.com/playlist?list=PLlb7e2G7aSpSSa_PlFEwnd6-3gzAa08_m) — видеолекции от Computer Science Center;
+- [ ] [Advanced R](http://adv-r.had.co.nz) by Hadley Wickham – онлайн-книга для тех, кто хочет повысить свой навык программирования на R и лучше понять этот язык (в т.ч. для программистов на других языках);
+- [ ] [A detailed list](http://bafflednerd.com/learn-r-online/) of online courses on R;
+- [ ] [Machine Learning in R](http://rpackages.ianhowson.com/cran/mlr/) ([:octocat: github repo](https://github.com/mlr-org/mlr)) — Interface to a large number of classification and regression techniques, including machine-readable parameter descriptions;
+- [ ] [Лучшие пакеты для машинного обучения в R](https://habrahabr.ru/company/infopulse/blog/305692/) – статья на Хабрахабре.
+
+## LateX
+
+- [ ]  [Не очень краткое введение в LateX (PDF)](http://zelmanov.ptep-online.com/ctan/lshort_russian.pdf),
+- [ ] IDE:
+    * [http://www.texstudio.org/](http://www.texstudio.org/), 
+    * [https://www.lyx.org/](https://www.lyx.org/),
+- [ ] [Курс по LateX](https://www.coursera.org/course/latex) на Coursera от Высшей Школы Экономики*,
+- [ ] [https://vk.com/hse.latex](https://vk.com/hse.latex) – группа курса vk  (много полезного и разного).
+
+## 📑 Open Datasets list
+
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Google’s Public Data Sets](https://cloud.google.com/bigquery/public-data/)
+- [/r/datasets](https://www.reddit.com/r/datasets)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – an awesome list of high-quality open datasets in public domains (on-going)
 
 The initial list was provided by Kevyn Collins-Thomson from the University of Michigan School of Information.
 
@@ -323,7 +486,8 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
     
 - **NASA data portal** - space and earth science
     - https://data.nasa.gov/ 
- 
+
+
 ## What's is the difference between _train, validation and test set_, in neural networks?
 
 **Training Set:** this data set is used to adjust the weights on the neural network.
