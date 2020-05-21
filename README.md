@@ -38,6 +38,8 @@ This repository contains examples of popular machine learning algorithms impleme
 - [R]()
 - [LateX]()
 - [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-datasets-list)
+- [Reddit]()
+- [Social Networks (chanels, chats, groups, etc.)]()
 - Implementation
   - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Supervised%20Learning)
     - Classification
@@ -488,6 +490,26 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
     
 - **NASA data portal** - space and earth science
     - https://data.nasa.gov/ 
+
+## Reddit
+
+- [ ] [/r/datacleaning](https://www.reddit.com/r/datacleaning)
+- [ ] [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+- [ ] [/r/dataisugly](https://www.reddit.com/r/dataisugly)
+- [ ] [/r/datasets](https://www.reddit.com/r/datasets)
+- [ ] [/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+- [ ] [/r/probabilitytheory](https://www.reddit.com/r/probabilitytheory)
+- [ ] [/r/statistics](https://www.reddit.com/r/statistics)
+- [ ] [/r/pystats](https://www.reddit.com/r/pystats)
+- [ ] [/r/learnpython](https://www.reddit.com/r/learnpython)
+
+## Social Networks (chanels, chats, groups, etc.)
+
+- [ ] [Deep Learning Russia](https://telegram.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
+- [ ] [ModelOverfit](https://telegram.me/modeloverfit) — Канал сообщества modeloverfit
+- [ ] [Data Science](https://telegram.me/opendatascience) — Первый новостной канал про data science
+- [ ] [Big Data & Machine Learning](https://telegram.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
+- [ ] [Data Science Chat](https://telegram.me/datasciencechat) — Чат по теме Data Science
 
 
 ## What's is the difference between _train, validation and test set_, in neural networks?
