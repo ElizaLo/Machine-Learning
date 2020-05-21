@@ -1,5 +1,7 @@
 # Supervised Learning
 
+<img src="https://github.com/ElizaLo/Machine-Learning/blob/master/images/Supervised%20Learning.jpg" width="929" height="702">
+
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
 In supervised learning we have a set of training data as an input and a set of labels or "correct answers" for each training set as an output. Then we're training our model (machine learning algorithm parameters) to map the input to the output correctly (to do correct prediction). The ultimate purpose is to find such model parameters that will successfully continue correct input→output mapping (predictions) even for new input examples.
