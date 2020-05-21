@@ -71,6 +71,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [ ] [Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов](https://github.com/esokolov/ml-course-hse)
 - [ ] [Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
 - [x] [Deep Learning LUN Cources](https://github.com/ElizaLo/Machine-Learning/tree/master/Deep%20Learning%20LUN%20Cources)
+- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 
 **Introductory Lectures:**
 
@@ -140,7 +141,6 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ## 🔹 Online Courses
 
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
-- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 - [ ] Coursera:
   * [Spesialization: Advanced Machine Learning ](https://www.coursera.org/specializations/aml)
   * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave)
@@ -237,11 +237,13 @@ Advanced courses that require prior knowledge in machine learning and AI.
  
  ## Awesome List 
  
-- [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
+- [ ] [awesome-cs-courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [ ] [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks
-    
+- [ ] [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books;
+- [ ] [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – an awesome list of high-quality open datasets in public domains (on-going)
 
+    
 ## 📌 Other
 
 - [ ] Cheat Sheets:
