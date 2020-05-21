@@ -281,22 +281,11 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
     - [MNIST Database](https://pjreddie.com/projects/mnist-in-csv/)
     - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)
     
- 5. ## **Computer Vision - Blurred Images**
-    - Algorithms for restoring blurred images
-    - Using **_scipy_** and **_imageio_**
-    - [Code](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/P5/ML_Practice_5.ipynb)
- 
- 6. ## **OpenCV**
-    - Face Detector on WebCam
-    - Camera Recording into file
-    - Detecting blue squares from WebCam
-    - [OpenCV Documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/)
-    - [Code](https://github.com/ElizaLo/ML-with-Jupiter/blob/master/P6/ML_Practice_6.ipynb)
     
- 7. ## **Convolutional Neural Network (CNN)**
+5. ## **Convolutional Neural Network (CNN)**
     - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
     
- 8. ## **Gated Recurrent Units (GRU)**
+ 6. ## **Gated Recurrent Units (GRU)**
     - [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be), Towards Data Science
  
  
