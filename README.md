@@ -14,6 +14,7 @@ This repository contains examples of popular machine learning algorithms impleme
 
 ## Table of Contents
 
+- [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
 - [Top University Courses](https://github.com/ElizaLo/Machine-Learning#-top-university-courses)
 - [Coursera Courses](https://github.com/ElizaLo/Machine-Learning#-coursera-courses)
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
@@ -25,17 +26,19 @@ This repository contains examples of popular machine learning algorithms impleme
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
-- [Supervised Learning](https://github.com/ElizaLo/Machine-Learning#supervised-learning)
-- [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning#unsupervised-learning)
-- [Datasets]()
+- [Datasets](https://github.com/ElizaLo/Machine-Learning#-datasets-list)
+- Implementation
+  - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Supervised%20Learning)
+    - Classification
+      - [K Nearest Neighbor, K-NN](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
+      - [Logistic Regression](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
+    - Regression
+      - [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
+      - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  - [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Unsupervised%20Learning)
 - [What's is the difference between train, validation and test set, in neural networks?](https://github.com/ElizaLo/Machine-Learning#whats-is-the-difference-between-train-validation-and-test-set-in-neural-networks)
 - [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
-  1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
-  2. [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
-      - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
-  3. [Logistic Regression](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
-  4. [Fully Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
+  4. [Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
   5. [Computer Vision - Blurred Images](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
   6. [OpenCV](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
   7. [Convolutional Neural Network (CNN)](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
