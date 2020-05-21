@@ -15,7 +15,7 @@ This repository contains examples of popular machine learning algorithms impleme
 ## Table of Contents
 
 - [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
-- [Top University Courses](https://github.com/ElizaLo/Machine-Learning#-top-university-courses)
+- [Courses](https://github.com/ElizaLo/Machine-Learning#-courses)
 - [Coursera Courses](https://github.com/ElizaLo/Machine-Learning#-coursera-courses)
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
@@ -54,11 +54,12 @@ This repository contains examples of popular machine learning algorithms impleme
 ![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
 
 
-## 🎓 Top University Courses 
+## 🎓 Courses 
 
 - [ ] [Курс Машинное обучение. Воронцов](https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1)
 - [ ] [Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов](https://github.com/esokolov/ml-course-hse)
 - [ ] [Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
+- [x] [Deep Learning LUN Cources](https://github.com/ElizaLo/Machine-Learning/tree/master/Deep%20Learning%20LUN%20Cources)
 
 **Introductory Lectures:**
 
@@ -152,10 +153,15 @@ Advanced courses that require prior knowledge in machine learning and AI.
     
 
 ## 📌 Other
+
+- [ ] Cheat Sheets:
+ - [ ] [Conda Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/conda-cheatsheet.pdf)
+ - [ ] [NumPy Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/Numpy_Python_Cheat_Sheet.pdf)
 - [ ] [Tucker Decomposition](https://en.wikipedia.org/wiki/Tucker_decomposition), [Article](https://link.springer.com/article/10.1007/BF02289464)
  - [ ] [Katakoda](https://www.katacoda.com/)
  - [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
     - [Code](https://drive.google.com/file/d/16hiZefHVkIb8Cvhf3BbBXsOOV9hob7eo/view)
+
 
     
 ## Reinforcement Learning 
