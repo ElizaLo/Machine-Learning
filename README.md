@@ -1,5 +1,7 @@
 <img src="https://github.com/ElizaLo/Machine-Learning/blob/master/images/Banner_Machine_Learning.png" width="900" height="100">
 
+![Banner_Machine_Learning](https://github.com/ElizaLo/Machine-Learning/blob/master/images/Banner_Machine_Learning.png)
+
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
 
