@@ -36,7 +36,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [Code editors](https://github.com/ElizaLo/Machine-Learning#code-editors)
 - [JavaScript-libraries for visualizing](https://github.com/ElizaLo/Machine-Learning#javascript-libraries-for-visualizing)
 - [R](https://github.com/ElizaLo/Machine-Learning#r)
-- [LateX](https://github.com/ElizaLo/Machine-Learning#latex)
+- [LaTeX](https://github.com/ElizaLo/Machine-Learning#latex)
 - [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-open-datasets-list)
 - [Reddit](https://github.com/ElizaLo/Machine-Learning#reddit)
 - [Social Networks (chanels, chats, groups, etc.)](https://github.com/ElizaLo/Machine-Learning#social-networks-chanels-chats-groups-etc)
@@ -49,18 +49,18 @@ This repository contains examples of popular machine learning algorithms impleme
       - [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
       - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
   - [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Unsupervised%20Learning)
+    - Clustering
+      - [K-Means](https://github.com/ElizaLo/Machine-Learning/tree/master/Unsupervised%20Learning/Clustering/K-Means)
+  - [Neural Networks](https://github.com/ElizaLo/Machine-Learning/tree/master/Neural%20Networks)
+      - [CNN](https://github.com/ElizaLo/Machine-Learning/blob/master/Neural%20Networks/CNN.ipynb)
+      - [FCNN](https://github.com/ElizaLo/Machine-Learning/blob/master/Neural%20Networks/FCNN.ipynb)
+      - [GRU](https://github.com/ElizaLo/Machine-Learning/blob/master/Neural%20Networks/GRU.ipynb)
 - [What's is the difference between train, validation and test set, in neural networks?](https://github.com/ElizaLo/Machine-Learning#whats-is-the-difference-between-train-validation-and-test-set-in-neural-networks)
-- [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
-  4. [Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
-  5. [Computer Vision - Blurred Images](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
-  6. [OpenCV](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
-  7. [Convolutional Neural Network (CNN)](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
-  8. [Gated Recurrent Units (GRU)](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
 - Projects
   - [Spam Detection](https://github.com/ElizaLo/ML-with-Jupiter#spam-detection)
   - [Text Generator](https://github.com/ElizaLo/ML-with-Jupiter#text-generator)
-  - **_Quora Insincere Questions Classification_**
-  - [**_Question Answering System using BiDAF Model on SQuAD_**](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
+  - Quora Insincere Questions Classification
+  - [Question Answering System using BiDAF Model on SQuAD](https://github.com/ElizaLo/Question-Answering-based-on-SQuAD)
 
     
 ## Machine Learning Map
@@ -75,7 +75,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [x] [Deep Learning LUN Cources](https://github.com/ElizaLo/Machine-Learning/tree/master/Deep%20Learning%20LUN%20Cources)
 - [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 
-**Introductory Lectures:**
+🔹 **Introductory Lectures:**
 
 These are great courses to get started in machine learning and AI. No prior experience in ML and AI is needed. You should have some knowledge of linear algebra, introductory calculus and probability. Some programming experience is also recommended.
 
@@ -99,7 +99,7 @@ These are great courses to get started in machine learning and AI. No prior expe
   - [Course website](http://web.stanford.edu/class/cs224n/)
   - Modern NLP techniques from recurrent neural networks and word embeddings to transformers and self-attention. Covers applied topics like questions answering and text generation.
 
-**Advanced Lectures:**
+🔸 **Advanced Lectures:**
 
 Advanced courses that require prior knowledge in machine learning and AI.
 
@@ -130,10 +130,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [CSEP 546 - Machine Learning (AU 2019) (U of Washington)](https://www.youtube.com/playlist?list=PLTPQEx-31JXj87XLsYutYGKw6K9dNaD36)
 - [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 - [ ] [Stanford Convex Optimization](https://www.youtube.com/playlist?list=PLdrixi40lpQm5ksInXlRon1eRwq_gzIcw)
-- [ ] [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+- [ ] [Stanford CS224U: Natural Language Understanding, Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 - [ ] [Full Stack Deep Learning 2019](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcf3Hc4VMEVBlH8HZm_NbeB)
 - [ ] [Emerging Challenges in Deep Learning](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd)
-- [ ] [Deep|Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
+- [ ] [Deep Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
 - [ ] [CMU Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
 - [ ] [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
 - [ ] [Workshop on Theory of Deep Learning: Where next (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5dqqg_S-rgJqSFeH4DQqFQ)
@@ -237,7 +237,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
  - [ ] [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
  - [ ] [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
  
- ## Awesome List 
+## Awesome List 
  
 - [ ] [awesome-cs-courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -309,9 +309,9 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 - [ ] [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
 
-## Linear algebra
+## Linear Algebra
 
-- [ ]  Sheldon Axler "Linear algebra done right"
+- [ ] Sheldon Axler "Linear algebra done right"
 - [ ] [Курс по линейной алгебре на stepic](https://stepic.org/course/Linear-Algebra-Problems-and-Methods-79/syllabus)
 - [ ] [https://www.coursera.org/course/linalg](https://www.coursera.org/course/linalg)
 - [ ] [Принстон](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
@@ -430,7 +430,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Machine Learning in R](http://rpackages.ianhowson.com/cran/mlr/) ([:octocat: github repo](https://github.com/mlr-org/mlr)) — Interface to a large number of classification and regression techniques, including machine-readable parameter descriptions;
 - [ ] [Лучшие пакеты для машинного обучения в R](https://habrahabr.ru/company/infopulse/blog/305692/) – статья на Хабрахабре.
 
-## LateX
+## LaTeX
 
 - [ ]  [Не очень краткое введение в LateX (PDF)](http://zelmanov.ptep-online.com/ctan/lshort_russian.pdf),
 - [ ] IDE:
@@ -530,17 +530,6 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
  
 # ⚙️ **Models and Algorithms Implementation:**
 
-- [Models and Algorithms Implementation](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-models-and-algorithms)
-  1. [k Nearest Neighbor](https://github.com/ElizaLo/ML-with-Jupiter#k-nearest-neighbor)
-  2. [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
-      - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
-  3. [Logistic Regression](https://github.com/ElizaLo/ML-with-Jupiter#logistic-regression)
-  4. [Fully Connected Neural Networks](https://github.com/ElizaLo/ML-with-Jupiter#fully-connected-neural-networks)
-  5. [Computer Vision - Blurred Images](https://github.com/ElizaLo/ML-with-Jupiter#computer-vision---blurred-images)
-  6. [OpenCV](https://github.com/ElizaLo/ML-with-Jupiter#opencv)
-  7. [Convolutional Neural Network (CNN)](https://github.com/ElizaLo/ML-with-Jupiter#convolutional-neural-network-cnn)
-  8. [Gated Recurrent Units (GRU)](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab#gated-recurrent-units-gru)
-
  1. ## **k Nearest Neighbor**
     - [Code](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/k%20Nearest%20Neighbor/kNN.py)
     - [Subset of MNIST](https://pjreddie.com/projects/mnist-in-csv/)
@@ -559,13 +548,12 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
  4. ## **Fully Connected Neural Networks**
     - Fully connected neural network that recognizes handwriting numbers from  MNIST database (Modified National Institute of     Standards and Technology database)
     - [MNIST Database](https://pjreddie.com/projects/mnist-in-csv/)
-    - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)
-    
+    - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P4)   
     
 5. ## **Convolutional Neural Network (CNN)**
     - [Code](https://github.com/ElizaLo/ML-with-Jupiter/tree/master/P7)
     
- 6. ## **Gated Recurrent Units (GRU)**
+6. ## **Gated Recurrent Units (GRU)**
     - [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be), Towards Data Science
  
  
