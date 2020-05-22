@@ -64,7 +64,7 @@ This repository contains examples of popular machine learning algorithms impleme
 
     
 ## Machine Learning Map
-![machine-learning-map.png](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/images/machine-learning-map.png)
+![machine-learning-map.png](https://raw.githubusercontent.com/ElizaLo/Machine-Learning/master/images/machine-learning-map.png)
 
 
 ## 🎓 Courses 
