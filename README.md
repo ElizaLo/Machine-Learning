@@ -1,4 +1,4 @@
-<img src="https://github.com/ElizaLo/Machine-Learning/blob/master/images/Banner_Machine_Learning.png" width="900" height="100">
+<img src="/images/Banner_Machine_Learning.png" width="900" height="100">
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained.
 
@@ -20,7 +20,7 @@ This repository contains examples of popular machine learning algorithms impleme
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
-- :octocat: [GitHub Repositories](https://github.com/ElizaLo/Machine-Learning#octocat-github-repositories)
+- [GitHub Repositories](https://github.com/ElizaLo/Machine-Learning#octocat-github-repositories) :octocat:
 - [Awesome List](https://github.com/ElizaLo/Machine-Learning#awesome-list) :octocat:
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
 - [Neural Networks](https://github.com/ElizaLo/Machine-Learning#neural-networks)
