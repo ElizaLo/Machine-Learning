@@ -172,10 +172,16 @@ Advanced courses that require prior knowledge in machine learning and AI.
   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1)
   * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+- [ ] [DataCamp](https://learn.datacamp.com):
+  * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
+- [ ] [Stepik](https://welcome.stepik.org/ru):
+  * Курс по статистике на [stepic.org](http://stepik.org) — качественное введение в статистику, целиком на русском языке
+- [ ] [Hyperskill](https://hi.hyperskill.org) from JetBrains Academy:
+  * [Python Knowledge Map](https://hyperskill.org/knowledge-map/331?v=table)
+- [ ] [Codecademy](https://www.codecademy.com):
+  * [Data Science](https://www.codecademy.com/catalog/subject/data-science)
 - [ ] [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
 - [ ] [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses)
-- [ ] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
-- [ ] Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке
 - [ ] [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft 
 
 
@@ -252,47 +258,39 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Awesome Business Machine Learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations
 - [ ] [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) - List of awesome university courses for learning Computer Science
 - [ ] [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures
-- [ ] [datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science
-- [ ] [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python
-- [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [ ] [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
-- [ ] [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
-- [ ] [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks
-- [ ] [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books;
-- [ ] [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – an awesome list of high-quality open datasets in public domains (on-going)
-  
-    
-   
- 
-    
-[Awesome Causality](https://github.com/rguo12/awesome-causality-algorithms)    
-[Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)    
-[Awesome CSV](https://github.com/secretGeek/AwesomeCSV)    
-[Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)   
-[Awesome Dash](https://github.com/ucg8j/awesome-dash)   
-[Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)    
-[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)   
-[Awesome ETL](https://github.com/pawl/awesome-etl)   
-[Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)   
-[Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)   
-[Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)   
-[Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)   
-[Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)   
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#python)    
-[Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
-[Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
-[Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
-[Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
-[Awesome Python](https://github.com/vinta/awesome-python)   
-[Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience)   
-[Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
-[Awesome Python Data Science](https://github.com/amitness/toolbox)  
-[Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  
-[Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
-[Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
-[Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
-[Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
-[Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)   
+- [ ] [Awesome Causality](https://github.com/rguo12/awesome-causality-algorithms)    
+- [ ] [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)    
+- [ ] [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)    
+- [ ] [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby)   
+- [ ] [Awesome Dash](https://github.com/ucg8j/awesome-dash)   
+- [ ] [Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)    
+- [ ] [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
+- [ ] [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
+- [ ] [Awesome ETL](https://github.com/pawl/awesome-etl)   
+- [ ] [Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)   
+- [ ] [Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)   
+- [ ] [Awesome GAN Applications](https://github.com/nashory/gans-awesome-applications)   
+- [ ] [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)   
+- [ ] [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+- [ ] [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [ ] [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)     
+- [ ] [Awesome Machine Learning Operations](https://github.com/EthicalML/awesome-machine-learning-operations)   
+- [ ] [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)   
+- [ ] [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning)  
+- [ ] [Awesome Python](https://github.com/vinta/awesome-python)
+- [ ] [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books
+- [ ] [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-datascience) - Probably the best curated list of data science software in Python   
+- [ ] [Awesome Python Data Science](https://github.com/thomasjpfan/awesome-python-data-science)  
+- [ ] [Awesome Python Data Science](https://github.com/r0f1/datascience) - Curated list of Python resources for data science
+- [ ] [Awesome Python Data Science](https://github.com/amitness/toolbox)  
+- [ ] [Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)
+- [ ] [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) – an awesome list of high-quality open datasets in public domains (on-going)
+- [ ] [Awesome RNN](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks
+- [ ] [Awesome Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)  
+- [ ] [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  
+- [ ] [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)  
+- [ ] [Awesome Time Series](https://github.com/MaxBenChrist/awesome_time_series_in_python)  
+- [ ] [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection)   
 
     
 ## 📌 Other
