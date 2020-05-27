@@ -21,23 +21,23 @@ This repository continues to be constantly updated.
 - [Online Courses](https://github.com/ElizaLo/Machine-Learning#-online-courses) (Coursera, Udacity, Edx, DataCamp, etc.)
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
-- [Conferences]()
-  - International
-  - North America
-  - Europe
-  - Ukraine
+- [Conferences](https://github.com/ElizaLo/Machine-Learning#conferences)
+  - [International](https://github.com/ElizaLo/Machine-Learning#international)
+  - [North America](https://github.com/ElizaLo/Machine-Learning#north-america)
+  - [Europe](https://github.com/ElizaLo/Machine-Learning#europe)
+  - [Ukraine](https://github.com/ElizaLo/Machine-Learning#ukraine)
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
 - [GitHub Repositories](https://github.com/ElizaLo/Machine-Learning#octocat-github-repositories) :octocat:
 - [Awesome List](https://github.com/ElizaLo/Machine-Learning#awesome-list) :octocat:
 - [Other](https://github.com/ElizaLo/Machine-Learning#-other)
-- [Big Data]()
+- [Big Data](https://github.com/ElizaLo/Machine-Learning#big-data)
 - [Neural Networks](https://github.com/ElizaLo/Machine-Learning#neural-networks)
-- [Reinforcement Learning ](https://github.com/ElizaLo/Machine-Learning#reinforcement-learning)
+- [Reinforcement Learning](https://github.com/ElizaLo/Machine-Learning#reinforcement-learning)
   - Books
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Linear algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
+- [Linear Algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
 - [Theory of Probability and Mathematical Statistics](https://github.com/ElizaLo/Machine-Learning#theory-of-probability-and-mathematical-statistics)
 - [Algorithms](https://github.com/ElizaLo/Machine-Learning#algorithms)
 - [Python, IPython, Scikit-learn etc.](https://github.com/ElizaLo/Machine-Learning#python-ipython-scikit-learn-etc)
@@ -243,6 +243,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [AAAI, Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 - [AAMAS, International Conference on Autonomous Agents and Multi-Agent Systems](https://aamas2020.conference.auckland.ac.nz)
+- [CVPR, IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com)
 - [ICML, International Conference on Machine Learning](https://icml.cc)
 - [ICCBR, International Conference on Case-Based Reasoning](http://www.iccbr.org)
 - [ICCV, International Computer Vision Conference](http://iccv2019.thecvf.com)
@@ -254,6 +255,14 @@ Advanced courses that require prior knowledge in machine learning and AI.
   - [MDS, Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/sdm20)
 - [SIGKDD, Conference on Knowledge Discovery and Data Mining](https://www.kdd.org/conferences)
 - [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+- [ACL, Association for Computational Linguistics](https://www.aclweb.org/portal/acl)
+  - [EMNLP, Empirical Methods in Natural Language Processing](https://www.aclweb.org/portal/emnlp)
+  - [IJCNLP, International Joint Conference on Natural Language Processing](https://www.aclweb.org/portal/ijcnlp)
+- [Open Data Science Conference](https://odsc.com)
+- [The Data Science Conference](https://www.thedatascienceconference.com)
+- [Strata Data & AI Conference](https://www.oreilly.com/conferences/strata-data-ai.html?fbclid=IwAR0vdkJY6Rr2fOz3CCosFpRTvulS_nCGYonryUsIpGF85QQKYm1FS1H_I38)
+- [useR!](https://user2020.r-project.org)
+- [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-san-francisco-2020/speakers?fbclid=IwAR3t-3eXa-yID5oSME2IOW-7z8p17ZqTPuPzEIXGn4T25iqZlLNG5k7EFJc)
 
 
 ### North America
@@ -261,7 +270,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [MAIS, Montreal AI Symposium](https://montrealaisymposium.wordpress.com)
 
 - Computer Vision:
-  - [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com)
+  
+  
+- Nalural Language Processing:
+  - [NAACLP, North American Chapter of the Association for Computational Linguistics](https://www.aclweb.org/portal/naacl)
 
 ### Europe
 
@@ -272,6 +284,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ### Ukraine
 
 - [Data Science UA Conference](https://data-science.com.ua)
+- [AI Ukraine](https://aiukraine.com)
+- [Data Science fwdays](https://fwdays.com/event/data-science-fwdays-2019)
 
 ## ▶️ Websites
 
