@@ -18,17 +18,14 @@ This repository continues to be constantly updated.
 
 - [Machine Learning Map](https://github.com/ElizaLo/Machine-Learning#machine-learning-map)
 - [Courses](https://github.com/ElizaLo/Machine-Learning#-courses)
-- [Online Courses](https://github.com/ElizaLo/Machine-Learning#-online-courses)
-  - Coursera
-  - Udacity
-  - Edx
-  - DataCamp
-  - Stepik
-  - Hyperskill from JetBrains Academy
-  - Codecademy
-  - Google
+- [Online Courses](https://github.com/ElizaLo/Machine-Learning#-online-courses) (Coursera, Udacity, Edx, DataCamp, etc.)
 - [YouTube Videos](https://github.com/ElizaLo/Machine-Learning#-youtube-videos)
 - [Books](https://github.com/ElizaLo/Machine-Learning#-books)
+- [Conferences]()
+  - International
+  - North America
+  - Europe
+  - Ukraine
 - [Websites](https://github.com/ElizaLo/Machine-Learning#%EF%B8%8F-websites)
 - [GitHub Repositories](https://github.com/ElizaLo/Machine-Learning#octocat-github-repositories) :octocat:
 - [Awesome List](https://github.com/ElizaLo/Machine-Learning#awesome-list) :octocat:
@@ -50,7 +47,6 @@ This repository continues to be constantly updated.
 - [LaTeX](https://github.com/ElizaLo/Machine-Learning#latex)
 - [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-open-datasets-list)
 - [Reddit](https://github.com/ElizaLo/Machine-Learning#reddit)
-- [Conferences]()
 - [Social Networks (chanels, chats, groups, etc.)](https://github.com/ElizaLo/Machine-Learning#social-networks-chanels-chats-groups-etc)
 - Implementation
   - [Supervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Supervised%20Learning)
@@ -240,6 +236,42 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах
 - [ ] [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
 - [ ] [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
+
+## Conferences
+
+### International 
+
+- [AAAI, Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
+- [AAMAS, International Conference on Autonomous Agents and Multi-Agent Systems](https://aamas2020.conference.auckland.ac.nz)
+- [ICML, International Conference on Machine Learning](https://icml.cc)
+- [ICCBR, International Conference on Case-Based Reasoning](http://www.iccbr.org)
+- [ICCV, International Computer Vision Conference](http://iccv2019.thecvf.com)
+- [IEEE, International Conference on Data Mining](http://icdm2019.bigke.org)
+- [IJCAI, International Joint Conferences on Artificial Intelligence](https://www.ijcai.org)
+- [NIPS, NeurIPS, Conference on Neural Information Processing Systems](https://nips.cc)
+- [SIAM, Society for Industrial and Applied Mathematics](https://www.siam.org)
+  - [ICDM, IEEE International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm20)
+  - [MDS, Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/sdm20)
+- [SIGKDD, Conference on Knowledge Discovery and Data Mining](https://www.kdd.org/conferences)
+- [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+
+
+### North America
+
+- [MAIS, Montreal AI Symposium](https://montrealaisymposium.wordpress.com)
+
+- Computer Vision:
+  - [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com)
+
+### Europe
+
+- [ECML, European Conference on Machine Learning](https://ecmlpkdd2020.net)
+- [ECCV, European Conference on Computer Vision](https://eccv2020.eu)
+- [EACL, European Chapter of the Association for Computational Linguistics](https://2021.eacl.org)
+
+### Ukraine
+
+- [Data Science UA Conference](https://data-science.com.ua)
 
 ## ▶️ Websites
 
@@ -577,41 +609,6 @@ The initial list was provided by Kevyn Collins-Thomson from the University of Mi
 - [ ] [/r/pystats](https://www.reddit.com/r/pystats)
 - [ ] [/r/learnpython](https://www.reddit.com/r/learnpython)
 
-## Conferences
-
-### International 
-
-- [AAAI, Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
-- [AAMAS, International Conference on Autonomous Agents and Multi-Agent Systems](https://aamas2020.conference.auckland.ac.nz)
-- [ICML, International Conference on Machine Learning](https://icml.cc)
-- [ICCBR, International Conference on Case-Based Reasoning](http://www.iccbr.org)
-- [ICCV, International Computer Vision Conference](http://iccv2019.thecvf.com)
-- [IEEE, International Conference on Data Mining](http://icdm2019.bigke.org)
-- [IJCAI, International Joint Conferences on Artificial Intelligence](https://www.ijcai.org)
-- [NIPS, NeurIPS, Conference on Neural Information Processing Systems](https://nips.cc)
-- [SIAM, Society for Industrial and Applied Mathematics](https://www.siam.org)
-  - [ICDM, IEEE International Conference on Data Mining](https://www.siam.org/conferences/cm/conference/sdm20)
-  - [MDS, Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/sdm20)
-- [SIGKDD, Conference on Knowledge Discovery and Data Mining](https://www.kdd.org/conferences)
-- [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
-
-
-### North America
-
-- [MAIS, Montreal AI Symposium](https://montrealaisymposium.wordpress.com)
-
-- Computer Vision:
-  - [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2020.thecvf.com)
-
-### Europe
-
-- [ECML, European Conference on Machine Learning](https://ecmlpkdd2020.net)
-- [ECCV, European Conference on Computer Vision](https://eccv2020.eu)
-- [EACL, European Chapter of the Association for Computational Linguistics](https://2021.eacl.org)
-
-### Urkaine
-
-- [Data Science UA Conference](https://data-science.com.ua)
 
 ## Social Networks (chanels, chats, groups, etc.)
 
