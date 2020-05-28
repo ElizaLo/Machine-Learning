@@ -326,6 +326,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Awesome Decision Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)    
 - [ ] [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 - [ ] [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
+- [ ] [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp#courses) - A curated list of awesome Deep Learning for Natural Language Processing resources
+- [ ] [Awesome Deep Reinforcement Learning](https://github.com/brianspiering/awesome-deep-rl) - A curated list of awesome Deep Reinforcement Learning resources
 - [ ] [Awesome ETL](https://github.com/pawl/awesome-etl)   
 - [ ] [Awesome Financial Machine Learning](https://github.com/firmai/financial-machine-learning)   
 - [ ] [Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)   
