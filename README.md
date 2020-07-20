@@ -471,6 +471,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219)
 - [ ] [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110) – Гарвардский курс от Joseph K. Blitzstein
 - [ ] [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) — презентация о том, как можно использовать coding skills to "hack statistics"
+- [ ] [Mathematical Statistics](https://books.google.cz/books/about/Mathematical_Statistics.html?id=_bEPBwAAQBAJ&source=kp_cover&redir_esc=y)
 
 ## Algorithms
 
