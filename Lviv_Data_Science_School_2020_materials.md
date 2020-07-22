@@ -36,6 +36,7 @@
   
 **Bayesian modeling and related books**:
 
+- [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [ ] C.P. Robert: The Bayesian choice (advanced)
 - [ ] Gelman, Carlin, Stern, Rubin: Bayesian data analysis (nice easy older book)
 - [ ] Congdon: Applied Bayesian modelling; Bayesian statistical modelling (relatively nice books for references)
@@ -45,3 +46,20 @@
 - [ ] Puppy book from Kruschke
 - [ ] [Mathematical Statistics](https://books.google.cz/books/about/Mathematical_Statistics.html?id=_bEPBwAAQBAJ&source=kp_cover&redir_esc=y)
 - [ ] [Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)
+
+## Graph Neural Networks
+
+- [ ] Files from lecture:
+  - [Slides](https://bit.ly/lviv2020gnn-intro)
+
+**Resources:**
+- [ ] [DGL library](https://www.dgl.ai/)
+  - [DGL notebook](https://docs.dgl.ai/tutorials/basics/1_first.html)
+  - [DGL tutorial from TheWebConf-20 (WWW)](https://www.dgl.ai/news/2020/05/24/webconf.html)
+- [ ] [Survey paper: D Bacciua et all (June 2020) A Gentle Introduction to Deep Learning for Graphs](https://arxiv.org/abs/1912.12693)
+- [ ] Survey paper: Z Wu et all (Dec 2019) A Comprehensive Survey on Graph Neural Networks 
+- [ ] [Series of posts](https://towardsdatascience.com/@michael.bronstein https://arxiv.org/abs/1901.00596)
+- [ ] "Introduction to Graph Neural Networks" Zhiyuan Liu, Jie Zhou
+- [ ] **Lectures:**
+  - Follow related workshops, they release keynote videos, e.g.: https://www.aminer.cn/dl4g_www2020
+  - Follow individual researchers, e.g.  Jure Leskovec,  Petar Veličković - a few lectures around "graph neural networks" online
