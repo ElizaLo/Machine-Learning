@@ -190,6 +190,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
   - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning
   - [Google Cloud Training](https://cloud.google.com/training#find-a-class)
   - [Qwiklabs](https://google.qwiklabs.com)
+  - [Grow.Google](https://grow.google/intl/europe/)
+  - [LearnDigital.WithGoogle](https://learndigital.withgoogle.com/digitalworkshop-eu/courses?utm_source=Grow2&utm_medium=referral&utm_campaign=lego)
 - [ ] [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
 - [ ] [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses)
 - [ ] [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft 
@@ -293,6 +295,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## :octocat: GitHub Repositories
 
+- [ ] [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [ ] [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [ ] [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ
 - [ ] [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
@@ -490,6 +493,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] Puppy book from Kruschke
 
 ## Causal Inference
+
+> Correlation does not imply causation
 
 - [ ] Files from lecture:
   - [Slides](https://data.sweichwald.de/slides/2020-LvivDSSS.pdf)
