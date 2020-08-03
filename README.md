@@ -150,6 +150,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## 🔹 Online Courses
 
+- [ ] [Class Central](https://www.classcentral.com)
+
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
 - [ ] Coursera:
   * [Spesialization: Advanced Machine Learning ](https://www.coursera.org/specializations/aml)
@@ -500,6 +502,9 @@ Advanced courses that require prior knowledge in machine learning and AI.
   - [Slides](https://data.sweichwald.de/slides/2020-LvivDSSS.pdf)
 
 **More online lectures, papers, books, etc. on Causality:**
+
+- **Coursera:**
+  - [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)
 
 - 4 lectures on causality by J.Peters (8 h), [MIT Statistics and Data Science Center, 2017](https://stat.mit.edu/news/four-lectures-causality/)
 - Causality tutorial by D.Janzing and S.Weichwald (4 h), [Conference on Cognitive Computational Neuroscience 2019](https://sweichwald.de/slides.html#ccn2019)
