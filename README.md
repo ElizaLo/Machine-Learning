@@ -37,15 +37,18 @@ This repository continues to be constantly updated.
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Linear Algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
-- [Theory of Probability and Mathematical Statistics](https://github.com/ElizaLo/Machine-Learning#theory-of-probability-and-mathematical-statistics)
+- [Mathematics for AI, ML, DL, CV]()
+  - [Linear Algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
+  - [Theory of Probability and Mathematical Statistics](https://github.com/ElizaLo/Machine-Learning#theory-of-probability-and-mathematical-statistics)
+  - [Bayesian Statistics](https://github.com/ElizaLo/Machine-Learning#bayesian-statistics)
+  - [Causal Inference](https://github.com/ElizaLo/Machine-Learning#causal-inference)
 - [Algorithms](https://github.com/ElizaLo/Machine-Learning#algorithms)
 - [Python, IPython, Scikit-learn etc.](https://github.com/ElizaLo/Machine-Learning#python-ipython-scikit-learn-etc)
 - [Code editors](https://github.com/ElizaLo/Machine-Learning#code-editors)
 - [JavaScript-libraries for visualizing](https://github.com/ElizaLo/Machine-Learning#javascript-libraries-for-visualizing)
 - [R](https://github.com/ElizaLo/Machine-Learning#r)
 - [LaTeX](https://github.com/ElizaLo/Machine-Learning#latex)
-- [Open Datasets](https://github.com/ElizaLo/Machine-Learning#-open-datasets-list)
+- [Open Datasets list](https://github.com/ElizaLo/Machine-Learning#-open-datasets-list)
 - [Reddit](https://github.com/ElizaLo/Machine-Learning#reddit)
 - [Social Networks (chanels, chats, groups, etc.)](https://github.com/ElizaLo/Machine-Learning#social-networks-chanels-chats-groups-etc)
 - Implementation
@@ -56,6 +59,8 @@ This repository continues to be constantly updated.
     - Regression
       - [Linear Regression](https://github.com/ElizaLo/ML-with-Jupiter#linear-regression)
       - [Polynomial Regression](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/P2#polynomial-regression)
+  - Weak Supervision
+  - Active Learning
   - [Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning/tree/master/Unsupervised%20Learning)
     - Clustering
       - [K-Means](https://github.com/ElizaLo/Machine-Learning/tree/master/Unsupervised%20Learning/Clustering/K-Means)
@@ -201,9 +206,11 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## 🟥 YouTube Videos
 
-- [ ] [TensorFlow: Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) playlist
-- [ ] [Google Cloud Platform: AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
-- [ ] [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) channel
+- [TensorFlow: Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) playlist
+- [Google Cloud Platform: AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) channel
+- [Grammarly AI-NLP Club](https://www.youtube.com/playlist?list=PLv_p01hxj9MISx94VP6w6gpV84LhNRO-A) playlist
+- [Lviv Data Science Summer School 2020 lectures](https://www.youtube.com/playlist?list=PLr1w0qwTp9lDgjpGySP6hAlB77tEAoqS5)
 
 ## 📚 Books
 
@@ -364,8 +371,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ## 📌 Other
 
 - [ ] Cheat Sheets:
- - [ ] [Conda Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/conda-cheatsheet.pdf)
- - [ ] [NumPy Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/Numpy_Python_Cheat_Sheet.pdf)
+  - [ ] [Conda Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/conda-cheatsheet.pdf)
+  - [ ] [NumPy Cheat Sheet](https://github.com/ElizaLo/Machine-Learning/blob/master/Other/Numpy_Python_Cheat_Sheet.pdf)
 - [ ] [Tucker Decomposition](https://en.wikipedia.org/wiki/Tucker_decomposition), [Article](https://link.springer.com/article/10.1007/BF02289464)
  - [ ] [Katakoda](https://www.katacoda.com/)
  - [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
@@ -435,6 +442,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
    - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning), Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [ ] [Deep Reinforcment Learning, Decision Making and Control (UC Berkeley CS285)](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 - [ ] [New Directions in Reinforcement Learning and Control (Institure for Advanced Study)](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3)
+
+# Mathematics for AI, ML, DL, CV
 
 ## Linear Algebra
 
