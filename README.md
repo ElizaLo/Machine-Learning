@@ -37,7 +37,7 @@ This repository continues to be constantly updated.
   - Classes
   - Task / Tutorials
   - GitHub Repositories
-- [Mathematics for AI, ML, DL, CV]()
+- [Mathematics for AI, ML, DL, CV](https://github.com/ElizaLo/Machine-Learning#mathematics-for-ai-ml-dl-cv)
   - [Linear Algebra](https://github.com/ElizaLo/Machine-Learning#linear-algebra)
   - [Theory of Probability and Mathematical Statistics](https://github.com/ElizaLo/Machine-Learning#theory-of-probability-and-mathematical-statistics)
   - [Bayesian Statistics](https://github.com/ElizaLo/Machine-Learning#bayesian-statistics)
