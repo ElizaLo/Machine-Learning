@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/ElizaLo/Machine-Learning/master/images/Banner_Machine_Learning.png" width="900" height="100">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizaLo%2FMachine-Learning&count_bg=%233D4EC8&title_bg=%237E7E7E&icon=python.svg&icon_color=%23E7E7E7&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained. 
 
 This repository continues to be constantly updated.
