@@ -161,6 +161,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
 - [ ] Coursera:
+  * [Бесплатные курсы для изучения навыков в области облачных технологий](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed)
+  * [Бесплатные курсы для студентов](https://coursera.org/share/86b9a0ca7c9dd5d5a83dcd9f8f4e6685)
+  * [Coursera Together: Free online learning during COVID-19](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/)
+  * [Get Started with Data Science Foundations](https://coursera.org/share/ad744143ea216ba94381f8654ffdfa31)
   * [Spesialization: Advanced Machine Learning ](https://www.coursera.org/specializations/aml)
   * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave)
   * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. По этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye)
