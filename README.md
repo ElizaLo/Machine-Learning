@@ -158,6 +158,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ## 🔹 Online Courses
 
 - [ ] [Class Central](https://www.classcentral.com)
+- [ ] Free courses:
+  - [Cognitive Class.ai](https://cognitiveclass.ai)
 
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
 - [ ] Coursera:
@@ -202,6 +204,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] Google:
   - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning
   - [Google Cloud Training](https://cloud.google.com/training#find-a-class)
+  - [Google Developers Training](https://developers.google.com/training)
+  - [Technical Writing Courses](https://developers.google.com/tech-writing?authuser=1)
   - [Qwiklabs](https://google.qwiklabs.com)
   - [Grow.Google](https://grow.google/intl/europe/)
   - [LearnDigital.WithGoogle](https://learndigital.withgoogle.com/digitalworkshop-eu/courses?utm_source=Grow2&utm_medium=referral&utm_campaign=lego)
