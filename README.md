@@ -230,6 +230,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Tensor Calculus](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 - [ ] [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=asc_df_0387848576/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=1o2&hvnetw=g&hvrand=14103077512698652064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031958&hvtargid=aud-801738734305:pla-487139763557&psc=1)
  - [ ] [Pattern Recognition and Machine Learning, Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+ - [ ] [Deep Learning](https://journals.com.ua/books/programming/9237-deep-learning-by-ian-goodfellow-yoshua-bengio-aaron-courville.html) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [ ] [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013)
 - [ ] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015)
 - [ ] [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin
