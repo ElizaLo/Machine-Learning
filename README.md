@@ -312,6 +312,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ## ▶️ Websites
 
 - [ ] [Talking Machines](https://www.thetalkingmachines.com)
+- [ ] [Made with ML](https://madewithml.com) - Join 20K+ developers in learning how to responsibly deliver value with applied ML.
 
 ## :octocat: GitHub Repositories
 
@@ -407,6 +408,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
  - [ ] [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты
  - [ ] Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам
  - [ ] Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov)
+
 
 ## Big Data
 
