@@ -221,6 +221,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) channel
 - [Grammarly AI-NLP Club](https://www.youtube.com/playlist?list=PLv_p01hxj9MISx94VP6w6gpV84LhNRO-A) playlist
 - [Lviv Data Science Summer School 2020 lectures](https://www.youtube.com/playlist?list=PLr1w0qwTp9lDgjpGySP6hAlB77tEAoqS5)
+- [Samsung AI Innovation Campus - Russia](https://www.youtube.com/playlist?list=PLJEYfuHbcEIB-DdeoWaQ6Bzt0903kbmWK)
 
 ## 📚 Books
 
