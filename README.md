@@ -84,6 +84,8 @@ This repository continues to be constantly updated.
 
 ## 🎓 Courses 
 
+- [ ] [Top 50 FREE Artificial Intelligence, Computer Science, Engineering and Programming Courses from the Ivy League Universities](https://laconicml.com/ivy-league-universities-courses/)
+- [ ] [This is The Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 - [ ] [Курс Машинное обучение. Воронцов](https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1)
 - [ ] [Курс "Машинное обучение" на ФКН ВШЭ, Евгений Соколов](https://github.com/esokolov/ml-course-hse)
 - [ ] [Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
@@ -163,6 +165,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
 - [ ] Coursera:
+  * [Top 40 COMPLETELY FREE Coursera Artificial Intelligence and Computer Science Courses](https://laconicml.com/coursera-artificial-intelligence-courses/)
   * [Бесплатные курсы для изучения навыков в области облачных технологий](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed)
   * [Бесплатные курсы для студентов](https://coursera.org/share/86b9a0ca7c9dd5d5a83dcd9f8f4e6685)
   * [Coursera Together: Free online learning during COVID-19](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/)
@@ -314,6 +317,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [ ] [Talking Machines](https://www.thetalkingmachines.com)
 - [ ] [Made with ML](https://madewithml.com) - Join 20K+ developers in learning how to responsibly deliver value with applied ML.
+- [ ] [Laconic Machine Learning](https://laconicml.com/)
 
 ## :octocat: GitHub Repositories
 
