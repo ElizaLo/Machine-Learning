@@ -115,6 +115,8 @@ These are great courses to get started in machine learning and AI. No prior expe
   - [UCL Course on Reinforcement Learning by David Silver ](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
   - [Course website](https://www.davidsilver.uk/teaching/)
   - Introduction to reinforcement learning by one of the leading researchers behind AlphaGo and AlphaZero.
+- [ ] [Introduction to Deep Learning (MIT 6.S191 )](http://introtodeeplearning.com)
+  - MIT's official introductory course on deep learning methods with applications in medicine, and more! 
 - [ ] [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) 
   - [Course website](http://web.stanford.edu/class/cs224n/)
   - Modern NLP techniques from recurrent neural networks and word embeddings to transformers and self-attention. Covers applied topics like questions answering and text generation.
