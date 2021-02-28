@@ -99,8 +99,9 @@ These are great courses to get started in machine learning and AI. No prior expe
 - [ ] [Machine Learning (Stanford CS229)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
   - [Course website](http://cs229.stanford.edu/syllabus-autumn2018.html)
   - This modern classic of machine learning courses is a great starting point to understand the concepts and techniques of machine learning. The course covers many widely used techniques, The lecture notes are detailed and review necessary mathematical concepts.
-- [ ] [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html) 
-  - This course aims to provide an iterative framework for designing real-world machine learning systems. The goal of this framework is to build a system that is deployable, reliable, and scalable.  
+- [ ] [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html) by Stanford, Winter 2021
+  - This course aims to provide an iterative framework for designing real-world machine learning systems. The goal of this framework is to build a system that is deployable, reliable, and scalable. 
+  - [Machine Learning Interviews](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [ ] [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [Course website](https://cs231n.github.io)
   - ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению.
