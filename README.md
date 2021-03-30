@@ -45,6 +45,7 @@ This repository continues to be constantly updated.
   - [Bayesian Statistics](https://github.com/ElizaLo/Machine-Learning#bayesian-statistics)
   - [Causal Inference](https://github.com/ElizaLo/Machine-Learning#causal-inference)
 - [Algorithms](https://github.com/ElizaLo/Machine-Learning#algorithms)
+- [Machine Learning System Design](https://github.com/ElizaLo/Machine-Learning#machine-learning-system-design)
 - [Python, IPython, Scikit-learn etc.](https://github.com/ElizaLo/Machine-Learning#python-ipython-scikit-learn-etc)
 - [Code editors](https://github.com/ElizaLo/Machine-Learning#code-editors)
 - [JavaScript-libraries for visualizing](https://github.com/ElizaLo/Machine-Learning#javascript-libraries-for-visualizing)
@@ -582,6 +583,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [MIT 6.046J Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) – teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice
 - [ ] [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/);
 - [ ] [Реализации алгоритмов](https://ru.m.wikibooks.org/wiki/Реализации_алгоритмов)
+
+## Machine Learning System Design
+
+- [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 
 ## Python, IPython, Scikit-learn etc.
 
