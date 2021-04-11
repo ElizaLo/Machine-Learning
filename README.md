@@ -4,7 +4,7 @@
 
 This repository contains examples of popular machine learning algorithms implemented in Python with mathematics behind them being explained. 
 
-### This repository continues to be constantly updated. Subscribe not to miss anything.
+### Constantly updated. Subscribe not to miss anything.
 
 
 > - [ ] For **Octave/MatLab** version of Machine Learning algorithms please check [Machine Learning Course in Octave / MatLab](https://github.com/ElizaLo/Machine-Learning-Course-Octave) repository.
