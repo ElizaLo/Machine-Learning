@@ -588,6 +588,15 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 
+## Deploy Machine Learning Model to Production
+
+- **API**:
+  - **FastAPI**
+    - [How to deploy Machine Learning models as a Microservice using FastAPI](https://towardsdatascience.com/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi-b3a6002768af)
+    - [Почему Вы должны попробовать FastAPI?](https://habr.com/ru/post/478620/)
+  - 
+- 
+
 ## Python, IPython, Scikit-learn etc.
 
 - [ ] [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn
