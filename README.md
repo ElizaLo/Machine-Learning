@@ -171,6 +171,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 - [ ] [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
 - [ ] Coursera:
+  * [DeepLearning.AI](https://www.coursera.org/deeplearning-ai?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=EventEventbriteInstitutionDLAILaunchJuly292020)
   * [Top 40 COMPLETELY FREE Coursera Artificial Intelligence and Computer Science Courses](https://laconicml.com/coursera-artificial-intelligence-courses/)
   * [Бесплатные курсы для изучения навыков в области облачных технологий](https://coursera.org/share/f63a3a1dd8aad10a4ede6b3f7aa6a4ed)
   * [Бесплатные курсы для студентов](https://coursera.org/share/86b9a0ca7c9dd5d5a83dcd9f8f4e6685)
@@ -234,6 +235,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## 📚 Books
 
+- [ ] [Dive into Deep Learning](http://d2l.ai)
+  - Interactive deep learning book with code, math, and discussions 
+  - Implemented with NumPy/MXNet, PyTorch, and TensorFlow 
+- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) a free online book
 - [ ] [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science
 - [ ] [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML
 - [ ] [An Introduction to Statistical Learning](https://github.com/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/tree/master/Tensor%20Calculus)
