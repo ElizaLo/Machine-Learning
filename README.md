@@ -232,7 +232,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [Grammarly AI-NLP Club](https://www.youtube.com/playlist?list=PLv_p01hxj9MISx94VP6w6gpV84LhNRO-A) playlist
 - [Lviv Data Science Summer School 2020 lectures](https://www.youtube.com/playlist?list=PLr1w0qwTp9lDgjpGySP6hAlB77tEAoqS5)
 - [Samsung AI Innovation Campus - Russia](https://www.youtube.com/playlist?list=PLJEYfuHbcEIB-DdeoWaQ6Bzt0903kbmWK)
-- [Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
+- [Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured), at [GitHub](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
 
 ## 📚 Books
 
