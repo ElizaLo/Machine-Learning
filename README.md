@@ -121,6 +121,9 @@ These are great courses to get started in machine learning and AI. No prior expe
 - [ ] [Natural Language Processing with Deep Learning (Stanford CS224N)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) 
   - [Course website](http://web.stanford.edu/class/cs224n/)
   - Modern NLP techniques from recurrent neural networks and word embeddings to transformers and self-attention. Covers applied topics like questions answering and text generation.
+- [ ] [Machine Learning at MIPT](https://github.com/girafe-ai/ml-mipt) 
+  - This course aims to introduce students to modern state of Machine Learning and Artificial Intelligence. It is designed to take one year (two terms at MIPT) - approximately 2 * 15 lectures and seminars.
+- [ ] 
 
 🔸 **Advanced Lectures:**
 
