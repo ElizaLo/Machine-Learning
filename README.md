@@ -85,6 +85,8 @@ This repository contains examples of popular machine learning algorithms impleme
 
 ## 🎓 Courses 
 
+- [ ] [MIT OpenCourseWare](https://ocw.mit.edu)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw) on YouTube 
 - [ ] [Top 50 FREE Artificial Intelligence, Computer Science, Engineering and Programming Courses from the Ivy League Universities](https://laconicml.com/ivy-league-universities-courses/)
 - [ ] [This is The Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 - [ ] [Курс Машинное обучение. Воронцов](https://www.youtube.com/playlist?list=PLww5O9qI8iPP-mZf8mCMff3eMWFBHr0m1)
