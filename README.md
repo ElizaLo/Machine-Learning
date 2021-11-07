@@ -94,6 +94,9 @@ This repository contains examples of popular machine learning algorithms impleme
 - [ ] [Data Mining](https://www.cs.utah.edu/~jeffp/teaching/cs5955.html)
 - [x] [Deep Learning LUN Cources](https://github.com/ElizaLo/Machine-Learning/tree/master/Deep%20Learning%20LUN%20Cources)
 - [ ] [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
+- [ ] [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations)
+  > Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science 
+- [ ] 
 
 🔹 **Introductory Lectures:**
 
@@ -227,6 +230,8 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
 - [ ] [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses)
 - [ ] [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft 
+- [ ] [start-machine-learning](https://github.com/louisfb01/start-machine-learning)
+  - > A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
 
 ## 🟥 YouTube
@@ -279,6 +284,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах
 - [ ] [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
 - [ ] [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
+- [ ] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+  - [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
+    - > A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [ ]
 
 ## Conferences
 
@@ -335,6 +344,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
 - [ ] [Talking Machines](https://www.thetalkingmachines.com)
 - [ ] [Made with ML](https://madewithml.com) - Join 20K+ developers in learning how to responsibly deliver value with applied ML.
 - [ ] [Laconic Machine Learning](https://laconicml.com/)
+- [ ] [Towards AI](https://towardsai.net/p/category/editorial)
+  - [Tutorials](https://github.com/towardsai/tutorials) 
+    - > AI-related tutorials.
+- [ ] 
 
 ## :octocat: GitHub Repositories
 
@@ -359,6 +372,10 @@ Advanced courses that require prior knowledge in machine learning and AI.
  - [ ] [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
  - [ ] [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
  - [ ] [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
+ - [ ] [ml-surveys](https://github.com/eugeneyan/ml-surveys)
+  - > Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
+ - [ ] 
+ - [ ] 
  
 ## Awesome List 
 
