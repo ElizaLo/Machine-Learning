@@ -2,6 +2,13 @@
 
 Density-based spatial clustering of applications with noise (DBSCAN) is a data clustering algorithm proposed by Martin Ester, Hans-Peter Kriegel, Jörg Sander and Xiaowei Xu in 1996. It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together (points with many nearby neighbors), marking as outliers points that lie alone in low-density regions (whose nearest neighbors are too far away). DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature.
 
+## Parameters
+
+The DBSCAN algorithm basically requires 2 parameters:
+- **eps:** specifies how close points should be to each other to be considered a part of a cluster. It means that if the distance between two points is lower or equal to this value (eps), these points are considered neighbors.
+- **minPoints:** the minimum number of points to form a dense region. For example, if we set the minPoints parameter as 5, then we need at least 5 points to form a dense region.
+
+
 ## Complexity
 
 DBSCAN visits each point of the database, possibly multiple times (e.g., as candidates to different clusters). For practical considerations, however, the time complexity is mostly governed by the number of regionQuery invocations. DBSCAN executes exactly one such query for each point, and if an indexing structure is used that executes a neighborhood query in O(log n), an overall average runtime complexity of _**O(n log n)**_ is obtained (if parameter ε is chosen in a meaningful way, i.e. such that on average only _**O(log n)**_ points are returned). Without the use of an accelerating index structure, or on degenerated data (e.g. all points within a distance less than ε), the worst case run time complexity remains _**O(n²)**_. The distance matrix of size _(n²-n)/2_ can be materialized to avoid distance recomputations, but this needs _**O(n²)**_ memory, whereas a non-matrix based implementation of DBSCAN only needs _**O(n)**_ memory.
