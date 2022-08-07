@@ -22,6 +22,11 @@ DBSCAN visits each point of the database, possibly multiple times (e.g., as cand
 3. DBSCAN cannot cluster data sets well with large differences in densities, since the minPts-ε combination cannot then be chosen appropriately for all clusters
 4. If the data and scale are not well understood, choosing a meaningful distance threshold ε can be difficult.
 
+## Modifications
+
+- HDBSCAN
+- OPTICS
+
 ## Read more:
 
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) on Wikipedia
