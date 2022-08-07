@@ -4,6 +4,12 @@ Clustering analysis is an unsupervised learning method that separates the data p
 
 It comprises of many different methods based on different distance measures. E.g. K-Means (distance between points), Affinity propagation (graph distance), Mean-shift (distance between points), DBSCAN (distance between nearest points), Gaussian mixtures (Mahalanobis distance to centers), Spectral clustering (graph distance), etc.
 
+There are different approaches and algorithms to perform clustering tasks which can be divided into three sub-categories:
+
+- **Partition-based clustering:** E.g. k-means, k-median
+- **Hierarchical clustering:** E.g. Agglomerative, Divisive
+- **Density-based clustering:** E.g. DBSCAN
+
 ## Libraries
 
 | Title | Description, Information |
