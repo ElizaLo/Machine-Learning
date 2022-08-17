@@ -15,7 +15,7 @@ There are different approaches and algorithms to perform clustering tasks which 
 | Title | Description, Information |
 | :---:         |          :--- |
 |[HDBSCAN](https://hdbscan.readthedocs.io/en/latest/index.html#)|The hdbscan library is a suite of tools to use unsupervised learning to find clusters, or dense regions, of a dataset. The primary algorithm is HDBSCAN* as proposed by Campello, Moulavi, and Sander. The library provides a high performance implementation of this algorithm, along with tools for analysing the resulting clustering.|
-|[]()| |
+|[PyCaret](https://pycaret.gitbook.io/docs/get-started/quickstart#clustering)|PyCaret’s Clustering Module is an unsupervised machine learning module that performs the task of grouping a set of objects in such a way that objects in the same group (also known as a cluster) are more similar to each other than to those in other groups. It provides several pre-processing features that prepare the data for modeling through the setup function. It has over 10 ready-to-use algorithms and several plots to analyze the performance of trained models.|
 
 ## Determine the optimum number of clusters
 
