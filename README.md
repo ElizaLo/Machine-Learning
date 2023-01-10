@@ -351,31 +351,27 @@ Advanced courses that require prior knowledge in machine learning and AI.
 
 ## :octocat: GitHub Repositories
 
-- [ ] [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-- [ ] [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-- [ ] [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ
-- [ ] [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
-- [ ] [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [ ] [trekhleb, homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
-  - > Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [ ] [trekhleb, machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) 
-  - >  Interactive Machine Learning experiments: models training + models demo 
-- [ ] [trekhleb, machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) 
-  - > MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained
-- [ ] [Machine Learning Notebooks](https://diegoinacio.github.io/machine-learning-notebooks/)
-  - > A collection of Machine Learning fundamentals and useful python notebooks by Diego Inácio 
-- [ ] [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course 
-  – > This is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
- - [ ] [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs)
- - [ ] [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn
- - [ ] Рекомендации от преподавателей [курса «Математика и Python»](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) и [специализации](/spec-recommendations.md)
- - [ ] [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
- - [ ] [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
- - [ ] [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
- - [ ] [ml-surveys](https://github.com/eugeneyan/ml-surveys)
-  - > Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
- - [ ] 
- - [ ] 
+| Title | Description, Information |
+| :---:         |          :--- |
+|[Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)||
+|[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)||
+|[ml-course-msu](https://github.com/esokolov/ml-course-msu)| Репозиторий с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ|
+|[100-best-github-machine-learning](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)||
+|[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)||
+|[trekhleb, homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)|Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained|
+|[trekhleb, machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)|Interactive Machine Learning experiments: models training + models demo|
+|[trekhleb, machine-learning-octave](https://github.com/trekhleb/machine-learning-octave)|MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained|
+|[Machine Learning Notebooks](https://diegoinacio.github.io/machine-learning-notebooks/)|A collection of Machine Learning fundamentals and useful python notebooks by Diego Inácio|
+|[Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course|This is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World|
+|[data-science-blogs](https://github.com/rushter/data-science-blogs)||
+ [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/)|([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn|
+||Рекомендации от преподавателей [курса «Математика и Python»](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) и [специализации](/spec-recommendations.md)|
+|[Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)||
+[Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)| - soulmachine (2015)|
+|[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)| (free)|
+|[ml-surveys](https://github.com/eugeneyan/ml-surveys)|Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.|
+|[Machine_Learning_and_Deep_Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)|Getting started with Machine Learning and Deep Learning|
+|[MachineLearning_DeepLearning](https://github.com/ThinamXx/MachineLearning_DeepLearning)|Share about Machine Learning and Deep Learning|
  
 ## Awesome List 
 
