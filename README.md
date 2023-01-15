@@ -372,6 +372,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 |[ml-surveys](https://github.com/eugeneyan/ml-surveys)|Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.|
 |[Machine_Learning_and_Deep_Learning](https://github.com/bansalkanav/Machine_Learning_and_Deep_Learning)|Getting started with Machine Learning and Deep Learning|
 |[MachineLearning_DeepLearning](https://github.com/ThinamXx/MachineLearning_DeepLearning)|Share about Machine Learning and Deep Learning|
+|[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)|A guide covering Machine Learning including the applications, libraries and tools that will make you better and more efficient with Machine Learning development.|
  
 ## Awesome List 
 
