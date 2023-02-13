@@ -174,6 +174,7 @@ Advanced courses that require prior knowledge in machine learning and AI.
 ## 🔹 Online Courses
 
 - [ ] [Class Central](https://www.classcentral.com)
+- [ ] [Scaler Topics](https://www.scaler.com/topics/)
 - [ ] Free courses:
   - [Cognitive Class.ai](https://cognitiveclass.ai)
 
